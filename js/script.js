@@ -3597,7 +3597,6 @@ document.addEventListener('DOMContentLoaded', () => {
                                 <div class="hero-cta">
                                     <a href="#" class="cta-button" data-page="fixtures">View Fixtures</a>
                                     <a href="#" class="cta-button secondary" data-page="table">League Table</a>
-                                    <a href="#" class="cta-button secondary" data-page="hall-of-fame">Hall of Fame</a>
                                 </div>
                                 <div class="powered-by">
                                     <p>Powered by <a href="https://thorhenry.github.io/personal_blog/" target="_blank" class="thorvisual">ThorVisual</a></p>
