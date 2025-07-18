@@ -79,41 +79,6 @@ document.addEventListener('DOMContentLoaded', () => {
     const data = {
         news: [
             {
-                title: "2nd Edition League Fixtures Confirmed",
-                date: "2025-05-10",
-                content: "The fixtures for the 2nd Edition of the PL Uganda League have been confirmed"
-            },
-            {
-                title: "Champions League Teams",
-                date: "2025-05-10",
-                content: "The following teams have been confirmed for the Champions League: Revash King FC, ThorVisual, Ghazi, Grndsn, The Kraven FC, Offer_Art, Anko-Fit and Newton FC"
-            },
-            {
-                title: "League Winner",
-                date: "2025-05-09",
-                content: "Revash King FC have won the PL Uganda League, 1st Edition"
-            },
-            {
-                title: "YTY Cup Winner",
-                date: "2025-05-09",
-                content: "ThorVisual have won the YTY Cup, beating Revash King FC 4-2 in the final, 1st Edition"
-            },
-            {
-                title: "Super Cup Winner",
-                date: "2025-05-09",
-                content: "ThorVisual have won the Super Cup, beating Revash King FC 2-1 in the final, 1st Edition"
-            },
-            {
-                title: "YTY Cup Semi Finals",
-                date: "2025-08-17",
-                content: "YTY Cup Semi Finals fixtures have been released"
-            },
-            {
-                title: "YTY Cup Semi Finals Fixtures",
-                date: "2025-08-18",
-                content: "ThorVisual vs The Kraven, Revash King vs Anko-Fit"
-            },
-            {
                 title: "Season Kickoff Announcement",
                 date: "2025-08-05",
                 content: "The new PL Uganda season starts next week with exciting matches!"
