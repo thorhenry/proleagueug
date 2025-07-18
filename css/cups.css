@@ -1,0 +1,142 @@
+.cups-container {
+    padding: 2rem;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.cups-header {
+    background: linear-gradient(135deg, #37003C, #7f3ebc);
+    color: #2ecc71;
+    padding: 2rem;
+    border-radius: 15px;
+
+}
+
+.cups-header h2 {
+    font-size: 2.5rem;
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+}
+
+.cups-header p {
+    color: var(--text-secondary);
+    font-size: 1.2rem;
+}
+
+.cups-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+}
+
+.cup-card {
+    background: var(--bg-secondary);
+    border-radius: 15px;
+    overflow: hidden;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease;
+}
+
+.cup-card:hover {
+    transform: translateY(-5px);
+}
+
+.cup-banner {
+    position: relative;
+    height: 200px;
+}
+
+.cup-image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.cup-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: linear-gradient(to bottom, rgba(0,0,0,0.2), rgba(0,0,0,0.7));
+    display: flex;
+    align-items: flex-end;
+    padding: 1rem;
+}
+
+.cup-status {
+    background: var(--accent-color);
+    color: white;
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    font-size: 0.9rem;
+}
+
+.cup-content {
+    padding: 1.5rem;
+}
+
+.cup-title {
+    font-size: 1.8rem;
+    color: var(--text-primary);
+    margin-bottom: 1rem;
+}
+
+.cup-details {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.cup-info-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    gap: 0.5rem;
+}
+
+.cup-info-item i {
+    font-size: 1.2rem;
+    color: var(--accent-color);
+}
+
+.cup-description {
+    color: var(--text-secondary);
+    margin-bottom: 1.5rem;
+    line-height: 1.6;
+}
+
+.cup-stages, .cup-format {
+    background: var(--bg-primary);
+    padding: 1rem;
+    border-radius: 10px;
+}
+
+.cup-stages h4, .cup-format h4 {
+    color: var(--text-primary);
+    margin-bottom: 0.5rem;
+    font-size: 1.1rem;
+}
+
+.cup-stages ul, .cup-format ul {
+    list-style: none;
+    padding: 0;
+}
+
+.cup-stages li, .cup-format li {
+    color: var(--text-secondary);
+    padding: 0.3rem 0;
+    font-size: 0.9rem;
+}
+
+@media (max-width: 768px) {
+    .cups-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .cup-details {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

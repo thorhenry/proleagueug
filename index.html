@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Updated Meta Tags for better WhatsApp sharing -->
+    <meta property="og:title" content="PL Uganda - Electronic Football League">
+    <meta property="og:description" content="The premier Electronic Football League in Uganda">
+    <meta property="og:image" content="https://thorhenry.github.io/PL/images/thumbnail.jpg">
+    <meta property="og:image:width" content="400">
+    <meta property="og:image:height" content="400">
+    <meta property="og:image:type" content="image/jpeg">
+    <meta property="og:url" content="https://thorhenry.github.io/PL/">
+    <meta property="og:type" content="website">
+    
+    <!-- Updated Twitter Card Meta Tags -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="PL Uganda - Electronic Football League">
+    <meta name="twitter:description" content="The premier Electronic Football League in Uganda">
+    <meta name="twitter:image" content="images/football-stadium.jpg">
+    <title>PL Uganda</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/home.css">
+    <link rel="stylesheet" href="css/cups.css">
+    <link rel="stylesheet" href="css/cup-fixtures.css">
+    <link rel="stylesheet" href="css/fixtures.css">
+    <link rel="stylesheet" href="css/results.css">
+    <link rel="stylesheet" href="css/champions-league.css">
+    <link rel="stylesheet" href="css/champions-standings.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+    <nav class="navbar">
+        <div class="logo">Pro League Uganda</div>
+        <div class="right-section">
+            <ul class="nav-links">
+                <li><a href="#" class="active" data-page="home">Home</a></li>
+                <li><a href="#" data-page="fixtures">Fixtures</a></li>
+                <li><a href="#" data-page="results">Results</a></li>
+                <li><a href="#" data-page="table">Table</a></li>
+                <li><a href="#" data-page="clubs">Clubs</a></li>
+                <!-- <li><a href="#" data-page="cups">Cups</a></li>
+                <li><a href="#" data-page="champions">Champions League</a></li> -->
+            </ul>
+            <div class="nav-controls">
+                <!-- <div class="search-button-wrapper">
+                    <button class="search-button" aria-label="Search">
+                        <i class="fas fa-search"></i>
+                    </button>
+                </div> -->
+                <button id="theme-toggle" class="theme-toggle" aria-label="Toggle theme">
+                    <img src="icons/light-mode.svg" class="sun-icon" alt="Light mode">
+                    <img src="icons/dark-mode.svg" class="moon-icon" alt="Dark mode">
+                </button>
+                <button class="mobile-menu-btn" aria-label="Toggle navigation menu">
+                    <div class="hamburger">
+                        <span class="line"></span>
+                        <span class="line"></span>
+                        <span class="line"></span>
+                    </div>
+                </button>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Search Overlay (modern, glassmorphic, accessible) -->
+    <div class="search-overlay" role="dialog" aria-modal="true" aria-labelledby="search-overlay-title" tabindex="-1">
+        <div class="search-container">
+            <div class="search-header">
+                <h2 id="search-overlay-title" class="search-title">Search PL Uganda</h2>
+                <button class="close-search" aria-label="Close Search Overlay">&times;</button>
+            </div>
+            <input id="search-input" class="search-input" type="text" placeholder="Search teams, matches, managers..." autocomplete="off" aria-label="Search" />
+            <div class="search-loading" style="display:none;"><span class="loader"></span> Searching...</div>
+            <div class="search-results">
+                <section class="results-section teams-section" aria-label="Teams">
+                    <h3>Teams</h3>
+                    <div class="results-list" id="teams-results"></div>
+                </section>
+                <section class="results-section matches-section" aria-label="Matches">
+                    <h3>Matches</h3>
+                    <div class="results-list" id="matches-results"></div>
+                </section>
+                <section class="results-section managers-section" aria-label="Managers">
+                    <h3>Managers</h3>
+                    <div class="results-list" id="managers-results"></div>
+                </section>
+                <div class="no-results" style="display:none;">No results found. Try a different search.</div>
+            </div>
+        </div>
+    </div>
+    <!-- End Search Overlay -->
+
+    <main id="main-content">
+        <!-- Content will be dynamically loaded here -->
+    </main>
+
+    <!-- Mobile Bottom Navigation -->
+    <nav class="mobile-bottom-nav">
+        <ul class="mobile-nav-items">
+            <li class="mobile-nav-item">
+                <a href="#" class="mobile-nav-link" data-page="home">
+                    <i class="fas fa-home"></i>
+                    <span>Home</span>
+                </a>
+            </li>
+            <li class="mobile-nav-item">
+                <a href="#" class="mobile-nav-link" data-page="fixtures">
+                    <i class="fas fa-calendar-alt"></i>
+                    <span>Fixtures</span>
+                </a>
+            </li>
+            <li class="mobile-nav-item">
+                <a href="#" class="mobile-nav-link" data-page="results">
+                    <i class="fas fa-trophy"></i>
+                    <span>Results</span>
+                </a>
+            </li>
+            <li class="mobile-nav-item">
+                <a href="#" class="mobile-nav-link" data-page="table">
+                    <i class="fas fa-table"></i>
+                    <span>Table</span>
+                </a>
+            </li>
+            <li class="mobile-nav-item">
+                <a href="#" class="mobile-nav-link" data-page="clubs">
+                    <i class="fas fa-users"></i>
+                    <span>Clubs</span>
+                </a>
+            </li>
+            <!-- <li class="mobile-nav-item">
+                <a href="#" class="mobile-nav-link" data-page="champions">
+                    <i class="fas fa-star"></i>
+                    <span>UCL</span>
+                </a>
+            </li> -->
+        </ul>
+    </nav>
+
+    <script src="js/script.js"></script>
+    <script src="js/results.js"></script>
+    <script src="js/secondLeg.js"></script>
+    <script src="js/fixtures.js"></script>
+    <script type="module" src="js/cups.js"></script>
+</body>
+</html>
