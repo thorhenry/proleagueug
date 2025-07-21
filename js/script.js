@@ -1237,9 +1237,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {   
                 matchday: 1,
                 home: "Grndsn",
-                homeScore: null,
+                homeScore: 1,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-07-21"
             },
             {   
@@ -2226,9 +2226,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 16,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 3,
                 away: "Grndsn",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-05"
             },
             {
@@ -3208,14 +3208,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 2,
                 team: "Grndsn",
-                played: 0,
+                played: 2,
                 won: 0,
-                drawn: 0,
+                drawn: 1,
                 lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
-                points: 0,
+                gf: 3,
+                ga: 4,
+                gd: -1,
+                points: 1,
             },
             {
                 position: 3,
@@ -3376,14 +3376,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 16,
                 team: "HenryLuther",
-                played: 0,
-                won: 0,
-                drawn: 0,
+                played: 2,
+                won: 1,
+                drawn: 1,
                 lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
-                points: 0,
+                gf: 4,
+                ga: 3,
+                gd: 1,
+                points: 4,
             }
         ],
 
