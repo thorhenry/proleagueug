@@ -145,11 +145,11 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 1,
             leg: "First",
-            home: "Briøz Úzi",
+            home: "Lardker FC",
             away: "Offer_Art",
             date: "2025-07-21",
             time: "20:00",
-            venue: "Uzi Ground"
+            venue: "Lards Arena"
         },
         {
             matchday: 1,
@@ -229,7 +229,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 2,
             leg: "First",
             home: "ThorVisual",
-            away: "Briøz Úzi",
+            away: "Lardker FC",
             date: "2025-07-22",
             time: "20:00",
             venue: "Thunder Ground"
@@ -311,11 +311,11 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 3,
             leg: "First",
-            home: "Briøz Úzi",
+            home: "Lardker FC",
             away: "Anko-Fit",
             date: "2025-07-23",
             time: "20:00",
-            venue: "Uzi Ground"
+            venue: "Lards Arena"
         },
 
             // Day 4
@@ -385,11 +385,11 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 4,
             leg: "First",
-            home: "Briøz Úzi",
+            home: "Lardker FC",
             away: "The Kraven",
             date: "2025-07-24",
             time: "20:00",
-            venue: "Uzi Ground"
+            venue: "Lards Arena"
         },
 
             // Day 5
@@ -451,7 +451,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 5,
             leg: "First",
             home: "Its Lyta",
-            away: "Briøz Úzi",
+            away: "Lardker FC",
             date: "2025-07-25",
             time: "20:00",
             venue: "IT Stadium"
@@ -515,11 +515,11 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 6,
             leg: "First",
-            home: "Briøz Úzi",
+            home: "Lardker FC",
             away: "Ghazi",
             date: "2025-07-26",
             time: "20:00",
-            venue: "Uzi Ground"
+            venue: "Lards Arena"
         },
         {
             matchday: 6,
@@ -581,7 +581,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 7,
             leg: "First",
             home: "Chutosmiles",
-            away: "Briøz Úzi",
+            away: "Lardker FC",
             date: "2025-07-27",
             time: "20:00",
             venue: "Smiles Arena"
@@ -645,11 +645,11 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 8,
             leg: "First",
-            home: "Briøz Úzi",
+            home: "Lardker FC",
             away: "Dandizzo",
             date: "2025-07-28",
             time: "20:00",
-            venue: "Uzi Ground"
+            venue: "Lards Arena"
         },
         {
             matchday: 8,
@@ -711,7 +711,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 9,
             leg: "First",
             home: "Yunusu100",
-            away: "Briøz Úzi",
+            away: "Lardker FC",
             date: "2025-07-29",
             time: "20:00",
             venue: "Urban Arena"
@@ -775,11 +775,11 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 10,
             leg: "First",
-            home: "Briøz Úzi",
+            home: "Lardker FC",
             away: "ThDrkSid001",
             date: "2025-07-30",
             time: "20:00",
-            venue: "Uzi Ground"
+            venue: "Lards Arena"
         },
         {
             matchday: 10,
@@ -841,7 +841,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 11,
             leg: "First",
             home: "Revash King",
-            away: "Briøz Úzi",
+            away: "Lardker FC",
             date: "2025-07-31",
             time: "20:00",
             venue: "King's Palace"
@@ -924,7 +924,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 12,
             leg: "First",
             home: "Grndsn",
-            away: "Briøz Úzi",
+            away: "Lardker FC",
             date: "2025-08-01",
             time: "20:00",
             venue: "Legit Arena"
@@ -1006,11 +1006,11 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 13,
             leg: "First",
-            home: "Briøz Úzi",
+            home: "Lardker FC",
             away: "Newton FC",
             date: "2025-08-02",
             time: "20:00",
-            venue: "Uzi Ground"
+            venue: "Lards Arena"
         },
         {
             matchday: 13,
@@ -1090,7 +1090,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 14,
             leg: "First",
             home: "Its_Volts",
-            away: "Briøz Úzi",
+            away: "Lardker FC",
             date: "2025-08-03",
             time: "20:00",
             venue: "Volts Arena"
@@ -1172,11 +1172,11 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 15,
             leg: "First",
-            home: "Briøz Úzi",
+            home: "Lardker FC",
             away: "HenryLuther",
             date: "2025-08-04",
             time: "20:00",
-            venue: "Uzi Ground"
+            venue: "Lards Arena"
         },
         {
             matchday: 15,
@@ -1252,10 +1252,10 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {   
                 matchday: 1,
-                home: "Briøz Úzi",
-                homeScore: null,
+                home: "Lardker FC",
+                homeScore: 1,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-07-21"
             },
             {
@@ -1328,7 +1328,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 2,
                 home: "ThorVisual",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-07-22"
             },
@@ -1400,7 +1400,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 3,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Anko-Fit",
                 awayScore: null,
@@ -1466,7 +1466,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 4,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "The Kraven",
                 awayScore: null,
@@ -1526,7 +1526,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 5,
                 home: "Its Lyta",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-07-25"
             },
@@ -1582,7 +1582,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 6,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Ghazi",
                 awayScore: null,
@@ -1642,7 +1642,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 7,
                 home: "Chutosmiles",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-07-27"
             },
@@ -1698,7 +1698,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 8,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Dandizzo",
                 awayScore: null,
@@ -1758,7 +1758,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 9,
                 home: "Yunusu100",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-07-29"
             },
@@ -1813,7 +1813,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 10,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "ThDrkSid001",
                 awayScore: null,
@@ -1873,7 +1873,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 11,
                 home: "Revash King",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-07-31"
             },
@@ -1947,7 +1947,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 12,
                 home: "Grndsn",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-01"
             },
@@ -2019,7 +2019,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 13,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Newton FC",
                 awayScore: null,
@@ -2095,7 +2095,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 14,
                 home: "Its_Volts",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-03"
             },
@@ -2167,7 +2167,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 15,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "HenryLuther",
                 awayScore: null,
@@ -2242,9 +2242,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 16,
                 home: "Offer_Art",
-                homeScore: null,
-                away: "Briøz Úzi",
-                awayScore: null,
+                homeScore: 2,
+                away: "Lardker FC",
+                awayScore: 3,
                 date: "2025-08-05"
             },
             {
@@ -2315,7 +2315,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 17,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "ThorVisual",
                 awayScore: null,
@@ -2391,7 +2391,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 18,
                 home: "Anko-Fit",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-07"
             },
@@ -2457,7 +2457,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 19,
                 home: "The Kraven",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-08"
             },
@@ -2513,7 +2513,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 20,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Its Lyta",
                 awayScore: null,
@@ -2573,7 +2573,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 21,
                 home: "Ghazi",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-10"
             },
@@ -2629,7 +2629,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 22,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Chutosmiles",
                 awayScore: null,
@@ -2689,7 +2689,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 23,
                 home: "Dandizzo",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-12"
             },
@@ -2745,7 +2745,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 24,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Yunusu100",
                 awayScore: null,
@@ -2805,7 +2805,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 25,
                 home: "ThDrkSid001",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-14"
             },
@@ -2862,7 +2862,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Matchday 26
             {
                 matchday: 26,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Revash King",
                 awayScore: null,
@@ -2936,7 +2936,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 27,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Grndsn",
                 awayScore: null,
@@ -3012,7 +3012,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 28,
                 home: "Newton FC",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-17"
             },
@@ -3084,7 +3084,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 29,
-                home: "Briøz Úzi",
+                home: "Lardker FC",
                 homeScore: null,
                 away: "Its_Volts",
                 awayScore: null,
@@ -3160,7 +3160,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 30,
                 home: "HenryLuther",
                 homeScore: null,
-                away: "Briøz Úzi",
+                away: "Lardker FC",
                 awayScore: null,
                 date: "2025-08-19"
             },
@@ -3291,15 +3291,15 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 position: 9,
-                team: "Briøz Úzi",
-                played: 0,
-                won: 0,
-                drawn: 0,
+                team: "Lardker FC",
+                played: 2,
+                won: 1,
+                drawn: 1,
                 lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
-                points: 0,
+                gf: 4,
+                ga: 3,
+                gd: 1,
+                points: 4,
             },
             {
                 position: 10,
@@ -3328,14 +3328,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 0,
+                played: 2,
                 won: 0,
-                drawn: 0,
-                lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
-                points: 0,
+                drawn: 1,
+                lost: 1,
+                gf: 3,
+                ga: 4,
+                gd: -1,
+                points: 1,
             },
             {
                 position: 13,
@@ -3414,10 +3414,10 @@ document.addEventListener('DOMContentLoaded', () => {
                 location: "Kampala, Uganda"
             },
             {
-                name: "Briøz Úzi",
+                name: "Lardker FC",
                 logo: "images/club-logos/milano.svg",
-                manager: "Briøz",
-                stadium: "Uzi Ground",
+                manager: "Lardker",
+                stadium: "Lards Arena",
                 founded: "2024",
                 location: "Gulu, Uganda"
             },
@@ -4685,7 +4685,7 @@ document.addEventListener('DOMContentLoaded', () => {
                                 { home: "Its Lyta", away: "Offer_Art", time: "20:00", venue: "IT Stadium", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
                                 { home: "Anko-Fit", away: "Newton FC", time: "20:00", venue: "Colds Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
                                 { home: "ThDrkSid001", away: "Dandizzo", time: "20:00", venue: "CJ Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
-                                { home: "Grndsn", away: "Briøz Úzi", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null }
+                                { home: "Grndsn", away: "Lardker FC", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null }
                             ]
                         },
                         {
