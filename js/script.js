@@ -1287,9 +1287,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 2,
                 home: "Chutosmiles",
-                homeScore: null,
+                homeScore: 4,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-22"
             },
             {
@@ -1327,9 +1327,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 2,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 1,
                 away: "Lardker FC",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-22"
             },
             {
@@ -2218,9 +2218,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 16,
                 home: "Chutosmiles",
-                homeScore: null,
+                homeScore: 3,
                 away: "Its Lyta",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-05"
             },
             {
@@ -2316,9 +2316,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 17,
                 home: "Lardker FC",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 7,
                 date: "2025-08-06"
             },
             {
@@ -3232,13 +3232,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 4,
                 team: "Its Lyta",
-                played: 0,
+                played: 2,
                 won: 0,
                 drawn: 0,
-                lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
+                lost: 2,
+                gf: 3,
+                ga: 7,
+                gd: -4,
                 points: 0,
             },
             {
@@ -3268,14 +3268,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 7,
                 team: "Chutosmiles",
-                played: 0,
-                won: 0,
+                played: 2,
+                won: 2,
                 drawn: 0,
                 lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
-                points: 0,
+                gf: 7,
+                ga: 3,
+                gd: 4,
+                points: 6,
             },
             {
                 position: 8,
@@ -3292,13 +3292,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 9,
                 team: "Lardker FC",
-                played: 2,
+                played: 4,
                 won: 1,
                 drawn: 1,
-                lost: 0,
-                gf: 4,
-                ga: 3,
-                gd: 1,
+                lost: 2,
+                gf: 5,
+                ga: 8,
+                gd: -3,
                 points: 4,
             },
             {
@@ -3316,14 +3316,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 2,
-                won: 1,
+                played: 4,
+                won: 3,
                 drawn: 0,
                 lost: 1,
-                gf: 5,
-                ga: 6,
-                gd: -1,
-                points: 3,
+                gf: 13,
+                ga: 7,
+                gd: 6,
+                points: 9,
             },
             {
                 position: 12,
