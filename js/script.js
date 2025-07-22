@@ -1221,9 +1221,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {   
                 matchday: 1,
                 home: "Newton FC",
-                homeScore: null,
+                homeScore: 1,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-21"
             },
             {   
@@ -1311,9 +1311,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 2,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 1,
                 away: "Grndsn",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-22"
             },
             {
@@ -2210,9 +2210,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 16,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 2,
                 away: "Newton FC",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-05"
             },
             {
@@ -2234,9 +2234,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 16,
                 home: "Dandizzo",
-                homeScore: 2,
+                homeScore: 1,
                 away: "The Kraven",
-                awayScore: 3,
+                awayScore: 4,
                 date: "2025-08-05"
             },
             {
@@ -2300,9 +2300,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 17,
                 home: "Grndsn",
-                homeScore: null,
+                homeScore: 2,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-06"
             },
             {
@@ -3208,26 +3208,26 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 2,
                 team: "Grndsn",
-                played: 2,
-                won: 0,
+                played: 4,
+                won: 1,
                 drawn: 1,
-                lost: 0,
-                gf: 3,
-                ga: 4,
+                lost: 2,
+                gf: 7,
+                ga: 8,
                 gd: -1,
-                points: 1,
+                points: 4,
             },
             {
                 position: 3,
                 team: "Newton FC",
-                played: 0,
-                won: 0,
+                played: 2,
+                won: 1,
                 drawn: 0,
-                lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
-                points: 0,
+                lost: 1,
+                gf: 4,
+                ga: 5,
+                gd: -1,
+                points: 3,
             },
             {
                 position: 4,
@@ -3256,14 +3256,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 6,
                 team: "Its_Volts",
-                played: 0,
-                won: 0,
+                played: 2,
+                won: 1,
                 drawn: 0,
-                lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
-                points: 0,
+                lost: 1,
+                gf: 5,
+                ga: 4,
+                gd: 1,
+                points: 3,
             },
             {
                 position: 7,
@@ -3284,9 +3284,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 won: 2,
                 drawn: 0,
                 lost: 0,
-                gf: 6,
-                ga: 4,
-                gd: 2,
+                gf: 7,
+                ga: 3,
+                gd: 4,
                 points: 6,
             },
             {
@@ -3328,14 +3328,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 2,
-                won: 0,
+                played: 4,
+                won: 1,
                 drawn: 1,
-                lost: 1,
-                gf: 3,
-                ga: 4,
+                lost: 2,
+                gf: 7,
+                ga: 8,
                 gd: -1,
-                points: 1,
+                points: 4,
             },
             {
                 position: 13,
@@ -3368,9 +3368,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 won: 0,
                 drawn: 0,
                 lost: 2,
-                gf: 4,
-                ga: 6,
-                gd: -2,
+                gf: 3,
+                ga: 7,
+                gd: -4,
                 points: 0,
             },
             {
