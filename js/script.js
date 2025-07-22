@@ -1229,9 +1229,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {   
                 matchday: 1,
                 home: "Its Lyta",
-                homeScore: null,
+                homeScore: 3,
                 away: "Chutosmiles",
-                awayScore: null,
+                awayScore: 4,
                 date: "2025-07-21"
             },
             {   
@@ -1287,9 +1287,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 2,
                 home: "Chutosmiles",
-                homeScore: 4,
+                homeScore: null,
                 away: "Ghazi",
-                awayScore: 3,
+                awayScore: null,
                 date: "2025-07-22"
             },
             {
