@@ -1335,9 +1335,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 2,
                 home: "ThDrkSid001",
-                homeScore: null,
+                homeScore: 1,
                 away: "Anko-Fit",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-22"
             },
 
@@ -2324,9 +2324,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 17,
                 home: "Anko-Fit",
-                homeScore: null,
+                homeScore: 3,
                 away: "ThDrkSid001",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-06"
             },
 
@@ -3304,14 +3304,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid001",
-                played: 2,
+                played: 4,
                 won: 1,
-                drawn: 0,
-                lost: 1,
-                gf: 6,
-                ga: 5,
-                gd: 1,
-                points: 3,
+                drawn: 1,
+                lost: 2,
+                gf: 10,
+                ga: 11,
+                gd: -1,
+                points: 4,
             },
             {
                 position: 11,
@@ -3352,14 +3352,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 14,
                 team: "Anko-Fit",
-                played: 2,
-                won: 2,
-                drawn: 0,
+                played: 4,
+                won: 3,
+                drawn: 1,
                 lost: 0,
-                gf: 6,
-                ga: 3,
-                gd: 3,
-                points: 6,
+                gf: 12,
+                ga: 7,
+                gd: 5,
+                points: 10,
             },
             {
                 position: 15,
