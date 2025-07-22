@@ -1303,9 +1303,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 2,
                 home: "Dandizzo",
-                homeScore: null,
+                homeScore: 0,
                 away: "Its Lyta",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-22"
             },
             {
@@ -2292,9 +2292,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 17,
                 home: "Its Lyta",
-                homeScore: null,
+                homeScore: 2,
                 away: "Dandizzo",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-06"
             },
             {
@@ -3232,14 +3232,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 4,
                 team: "Its Lyta",
-                played: 2,
-                won: 0,
+                played: 4,
+                won: 2,
                 drawn: 0,
                 lost: 2,
-                gf: 3,
+                gf: 8,
                 ga: 7,
-                gd: -4,
-                points: 0,
+                gd: 1,
+                points: 6,
             },
             {
                 position: 5,
@@ -3364,13 +3364,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 15,
                 team: "Dandizzo",
-                played: 2,
+                played: 4,
                 won: 0,
                 drawn: 0,
-                lost: 2,
+                lost: 4,
                 gf: 3,
-                ga: 7,
-                gd: -4,
+                ga: 12,
+                gd: -9,
                 points: 0,
             },
             {
