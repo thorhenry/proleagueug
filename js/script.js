@@ -1287,9 +1287,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 2,
                 home: "Chutosmiles",
-                homeScore: null,
+                homeScore: 4,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-22"
             },
             {
@@ -2276,9 +2276,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 17,
                 home: "Ghazi",
-                homeScore: null,
+                homeScore: 6,
                 away: "Chutosmiles",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-06"
             },
             {
@@ -3244,14 +3244,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 5,
                 team: "Ghazi",
-                played: 0,
-                won: 0,
+                played: 2,
+                won: 1,
                 drawn: 0,
-                lost: 0,
-                gf: 0,
-                ga: 0,
-                gd: 0,
-                points: 0,
+                lost: 1,
+                gf: 9,
+                ga: 5,
+                gd: 4,
+                points: 3,
             },
             {
                 position: 6,
@@ -3268,14 +3268,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 7,
                 team: "Chutosmiles",
-                played: 2,
-                won: 2,
+                played: 4,
+                won: 3,
                 drawn: 0,
-                lost: 0,
-                gf: 7,
-                ga: 3,
-                gd: 4,
-                points: 6,
+                lost: 1,
+                gf: 12,
+                ga: 12,
+                gd: 0,
+                points: 9,
             },
             {
                 position: 8,
