@@ -1353,9 +1353,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 3,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 2,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-07-23"
             },
             {
@@ -1401,9 +1401,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 3,
                 home: "Lardker FC",
-                homeScore: null,
+                homeScore: 1,
                 away: "Anko-Fit",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-23"
             },
 
@@ -2342,9 +2342,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 18,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 2,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-07"
             },
             {
@@ -2390,9 +2390,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 18,
                 home: "Anko-Fit",
-                homeScore: null,
+                homeScore: 3,
                 away: "Lardker FC",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-07"
             },
 
@@ -3256,14 +3256,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 6,
                 team: "Its_Volts",
-                played: 4,
-                won: 2,
+                played: 6,
+                won: 3,
                 drawn: 0,
-                lost: 2,
-                gf: 10,
-                ga: 9,
+                lost: 3,
+                gf: 13,
+                ga: 12,
                 gd: 1,
-                points: 6,
+                points: 9,
             },
             {
                 position: 7,
@@ -3292,13 +3292,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 9,
                 team: "Lardker FC",
-                played: 4,
+                played: 6,
                 won: 1,
                 drawn: 1,
-                lost: 2,
-                gf: 5,
-                ga: 8,
-                gd: -3,
+                lost: 4,
+                gf: 8,
+                ga: 14,
+                gd: -6,
                 points: 4,
             },
             {
@@ -3352,14 +3352,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 14,
                 team: "Anko-Fit",
-                played: 4,
-                won: 3,
+                played: 6,
+                won: 5,
                 drawn: 1,
                 lost: 0,
-                gf: 12,
-                ga: 7,
-                gd: 5,
-                points: 10,
+                gf: 18,
+                ga: 10,
+                gd: 8,
+                points: 16,
             },
             {
                 position: 15,
@@ -3376,14 +3376,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 16,
                 team: "HenryLuther",
-                played: 2,
-                won: 1,
+                played: 4,
+                won: 2,
                 drawn: 1,
-                lost: 0,
-                gf: 4,
-                ga: 3,
-                gd: 1,
-                points: 4,
+                lost: 1,
+                gf: 7,
+                ga: 5,
+                gd: 2,
+                points: 7,
             }
         ],
 
