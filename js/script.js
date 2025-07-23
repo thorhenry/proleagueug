@@ -1393,9 +1393,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 3,
                 home: "The Kraven",
-                homeScore: null,
+                homeScore: 3,
                 away: "ThDrkSid001",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-23"
             },
             {
@@ -2382,9 +2382,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 18,
                 home: "ThDrkSid001",
-                homeScore: null,
+                homeScore: 5,
                 away: "The Kraven",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-07"
             },
             {
@@ -3280,14 +3280,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 8,
                 team: "The Kraven",
-                played: 4,
+                played: 6,
                 won: 2,
-                drawn: 1,
-                lost: 1,
-                gf: 11,
-                ga: 9,
-                gd: 2,
-                points: 7,
+                drawn: 2,
+                lost: 2,
+                gf: 14,
+                ga: 17,
+                gd: -3,
+                points: 8,
             },
             {
                 position: 9,
@@ -3304,14 +3304,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid001",
-                played: 4,
-                won: 1,
-                drawn: 1,
+                played: 6,
+                won: 2,
+                drawn: 2,
                 lost: 2,
-                gf: 10,
-                ga: 11,
-                gd: -1,
-                points: 4,
+                gf: 18,
+                ga: 14,
+                gd: 4,
+                points: 8,
             },
             {
                 position: 11,
