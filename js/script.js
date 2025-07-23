@@ -1385,9 +1385,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 3,
                 home: "Grndsn",
-                homeScore: null,
+                homeScore: 3,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 4,
                 date: "2025-07-23"
             },
             {
@@ -2374,9 +2374,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 18,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 3,
                 away: "Grndsn",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-07"
             },
             {
@@ -3208,13 +3208,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 2,
                 team: "Grndsn",
-                played: 4,
+                played: 6,
                 won: 1,
                 drawn: 1,
-                lost: 2,
-                gf: 7,
-                ga: 8,
-                gd: -1,
+                lost: 4,
+                gf: 11,
+                ga: 15,
+                gd: -4,
                 points: 4,
             },
             {
@@ -3316,14 +3316,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 4,
-                won: 3,
+                played: 6,
+                won: 5,
                 drawn: 0,
                 lost: 1,
-                gf: 13,
-                ga: 7,
-                gd: 6,
-                points: 9,
+                gf: 20,
+                ga: 11,
+                gd: 9,
+                points: 15,
             },
             {
                 position: 12,
