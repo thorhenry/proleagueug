@@ -1361,9 +1361,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 3,
                 home: "Ghazi",
-                homeScore: null,
+                homeScore: 5,
                 away: "Dandizzo",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-07-23"
             },
             {
@@ -2350,9 +2350,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 18,
                 home: "Dandizzo",
-                homeScore: null,
+                homeScore: 1,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 6,
                 date: "2025-08-07"
             },
             {
@@ -3244,14 +3244,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 5,
                 team: "Ghazi",
-                played: 6,
-                won: 5,
+                played: 8,
+                won: 7,
                 drawn: 0,
                 lost: 1,
-                gf: 16,
-                ga: 5,
-                gd: 11,
-                points: 15,
+                gf: 27,
+                ga: 7,
+                gd: 20,
+                points: 21,
             },
             {
                 position: 6,
@@ -3364,13 +3364,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 15,
                 team: "Dandizzo",
-                played: 4,
+                played: 6,
                 won: 0,
                 drawn: 0,
-                lost: 4,
-                gf: 3,
-                ga: 12,
-                gd: -9,
+                lost: 6,
+                gf: 5,
+                ga: 23,
+                gd: -18,
                 points: 0,
             },
             {
