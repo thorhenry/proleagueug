@@ -1411,9 +1411,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 4,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 2,
                 away: "Revash King",
-                awayScore: null,
+                awayScore: 5,
                 date: "2025-07-24"
             },
             {
@@ -2400,9 +2400,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 19,
                 home: "Revash King",
-                homeScore: null,
+                homeScore: 0,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-08"
             },
             {
@@ -3196,14 +3196,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 1,
                 team: "Revash King",
-                played: 6,
-                won: 2,
+                played: 8,
+                won: 3,
                 drawn: 0,
-                lost: 4,
-                gf: 9,
-                ga: 14,
+                lost: 5,
+                gf: 14,
+                ga: 19,
                 gd: -5,
-                points: 6,
+                points: 9,
             },
             {
                 position: 2,
@@ -3376,14 +3376,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 16,
                 team: "HenryLuther",
-                played: 6,
-                won: 3,
+                played: 8,
+                won: 4,
                 drawn: 1,
-                lost: 2,
-                gf: 12,
-                ga: 11,
+                lost: 3,
+                gf: 17,
+                ga: 16,
                 gd: 1,
-                points: 10,
+                points: 12,
             }
         ],
 
