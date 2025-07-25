@@ -1451,9 +1451,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 4,
                 home: "ThDrkSid001",
-                homeScore: null,
+                homeScore: 3,
                 away: "Its Lyta",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-24"
             },
             {
@@ -1501,9 +1501,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 5,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 2,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-07-25"
             },
             {
@@ -1525,9 +1525,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 5,
                 home: "Its Lyta",
-                homeScore: null,
+                homeScore: 2,
                 away: "Lardker FC",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-25"
             },
             {
@@ -2440,9 +2440,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 19,
                 home: "Its Lyta",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThDrkSid001",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-08"
             },
             {
@@ -2490,9 +2490,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 20,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 2,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-09"
             },
             {
@@ -2514,9 +2514,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 20,
                 home: "Lardker FC",
-                homeScore: null,
+                homeScore: 2,
                 away: "Its Lyta",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-09"
             },
             {
@@ -3232,14 +3232,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 4,
                 team: "Its Lyta",
-                played: 6,
-                won: 2,
-                drawn: 1,
-                lost: 3,
-                gf: 13,
-                ga: 14,
-                gd: -1,
-                points: 7,
+                played: 12,
+                won: 3,
+                drawn: 3,
+                lost: 6,
+                gf: 23,
+                ga: 29,
+                gd: -6,
+                points: 12,
             },
             {
                 position: 5,
@@ -3256,14 +3256,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 6,
                 team: "Its_Volts",
-                played: 8,
-                won: 4,
+                played: 10,
+                won: 6,
                 drawn: 1,
                 lost: 3,
-                gf: 17,
-                ga: 14,
-                gd: 3,
-                points: 13,
+                gf: 22,
+                ga: 17,
+                gd: 5,
+                points: 19,
             },
             {
                 position: 7,
@@ -3304,25 +3304,25 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid001",
-                played: 6,
-                won: 2,
+                played: 8,
+                won: 4,
                 drawn: 2,
                 lost: 2,
-                gf: 18,
-                ga: 14,
-                gd: 4,
-                points: 8,
+                gf: 24,
+                ga: 15,
+                gd: 9,
+                points: 14,
             },
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 6,
+                played: 8,
                 won: 5,
                 drawn: 0,
-                lost: 1,
-                gf: 20,
-                ga: 11,
-                gd: 9,
+                lost: 3,
+                gf: 23,
+                ga: 16,
+                gd: 7,
                 points: 15,
             },
             {
