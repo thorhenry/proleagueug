@@ -1427,9 +1427,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 4,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 1,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-24"
             },
             {
@@ -1459,9 +1459,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 4,
                 home: "Anko-Fit",
-                homeScore: null,
+                homeScore: 1,
                 away: "Grndsn",
-                awayScore: null,
+                awayScore: 4,
                 date: "2025-07-24"
             },
             {
@@ -2416,9 +2416,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 19,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 1,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-08"
             },
             {
@@ -2448,9 +2448,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 19,
                 home: "Grndsn",
-                homeScore: null,
+                homeScore: 6,
                 away: "Anko-Fit",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-08"
             },
             {
@@ -3208,14 +3208,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 2,
                 team: "Grndsn",
-                played: 6,
-                won: 1,
+                played: 8,
+                won: 3,
                 drawn: 1,
                 lost: 4,
-                gf: 11,
-                ga: 15,
-                gd: -4,
-                points: 4,
+                gf: 21,
+                ga: 19,
+                gd: 2,
+                points: 10,
             },
             {
                 position: 3,
@@ -3256,14 +3256,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 6,
                 team: "Its_Volts",
-                played: 6,
-                won: 3,
-                drawn: 0,
+                played: 8,
+                won: 4,
+                drawn: 1,
                 lost: 3,
-                gf: 13,
-                ga: 12,
-                gd: 1,
-                points: 9,
+                gf: 17,
+                ga: 14,
+                gd: 3,
+                points: 13,
             },
             {
                 position: 7,
@@ -3328,14 +3328,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 6,
+                played: 8,
                 won: 2,
-                drawn: 1,
-                lost: 3,
-                gf: 12,
-                ga: 14,
-                gd: -2,
-                points: 7,
+                drawn: 2,
+                lost: 4,
+                gf: 14,
+                ga: 18,
+                gd: -4,
+                points: 8,
             },
             {
                 position: 13,
@@ -3352,13 +3352,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 14,
                 team: "Anko-Fit",
-                played: 6,
+                played: 8,
                 won: 5,
                 drawn: 1,
-                lost: 0,
-                gf: 18,
-                ga: 10,
-                gd: 8,
+                lost: 2,
+                gf: 22,
+                ga: 20,
+                gd: 2,
                 points: 16,
             },
             {
