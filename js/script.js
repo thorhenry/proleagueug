@@ -1477,9 +1477,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 5,
                 home: "Revash King",
-                homeScore: null,
+                homeScore: 2,
                 away: "Dandizzo",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-25"
             },
             {
@@ -2432,9 +2432,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 19,
                 home: "Newton FC",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 8,
                 date: "2025-08-08"
             },
             {
@@ -2466,9 +2466,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 20,
                 home: "Dandizzo",
-                homeScore: null,
+                homeScore: 1,
                 away: "Revash King",
-                awayScore: null,
+                awayScore: 5,
                 date: "2025-08-09"
             },
             {
@@ -3196,14 +3196,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 1,
                 team: "Revash King",
-                played: 8,
-                won: 3,
+                played: 10,
+                won: 4,
                 drawn: 0,
-                lost: 5,
-                gf: 14,
-                ga: 19,
-                gd: -5,
-                points: 9,
+                lost: 6,
+                gf: 21,
+                ga: 23,
+                gd: -2,
+                points: 12,
             },
             {
                 position: 2,
@@ -3220,13 +3220,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 3,
                 team: "Newton FC",
-                played: 7,
+                played: 8,
                 won: 3,
                 drawn: 0,
-                lost: 4,
-                gf: 16,
-                ga: 20,
-                gd: -4,
+                lost: 5,
+                gf: 17,
+                ga: 28,
+                gd: -11,
                 points: 9,
             },
             {
@@ -3316,14 +3316,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 9,
-                won: 6,
+                played: 10,
+                won: 7,
                 drawn: 0,
                 lost: 3,
-                gf: 30,
-                ga: 16,
-                gd: 14,
-                points: 18,
+                gf: 38,
+                ga: 17,
+                gd: 21,
+                points: 21,
             },
             {
                 position: 12,
@@ -3364,14 +3364,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 15,
                 team: "Dandizzo",
-                played: 8,
-                won: 0,
+                played: 10,
+                won: 1,
                 drawn: 0,
-                lost: 8,
-                gf: 6,
-                ga: 27,
-                gd: -21,
-                points: 0,
+                lost: 9,
+                gf: 10,
+                ga: 34,
+                gd: -24,
+                points: 3,
             },
             {
                 position: 16,
