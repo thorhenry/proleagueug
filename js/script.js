@@ -1625,9 +1625,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 7,
                 home: "Dandizzo",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThDrkSid001",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-27"
             },
             {
@@ -2614,9 +2614,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 22,
                 home: "ThDrkSid001",
-                homeScore: null,
+                homeScore: 5,
                 away: "Dandizzo",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-11"
             },
             {
@@ -3304,14 +3304,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid001",
-                played: 11,
-                won: 5,
+                played: 13,
+                won: 7,
                 drawn: 3,
                 lost: 3,
-                gf: 28,
-                ga: 19,
-                gd: 9,
-                points: 18,
+                gf: 35,
+                ga: 22,
+                gd: 13,
+                points: 24,
             },
             {
                 position: 11,
@@ -3364,13 +3364,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 15,
                 team: "Dandizzo",
-                played: 12,
+                played: 14,
                 won: 1,
                 drawn: 0,
-                lost: 11,
-                gf: 10,
-                ga: 38,
-                gd: -28,
+                lost: 13,
+                gf: 13,
+                ga: 45,
+                gd: -32,
                 points: 3,
             },
             {
