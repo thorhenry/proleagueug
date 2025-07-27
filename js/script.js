@@ -1599,9 +1599,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 6,
                 home: "Grndsn",
-                homeScore: null,
+                homeScore: 1,
                 away: "Its Lyta",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-26"
             },
 
@@ -2588,9 +2588,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 21,
                 home: "Its Lyta",
-                homeScore: null,
+                homeScore: 1,
                 away: "Grndsn",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-10"
             },
 
@@ -3208,14 +3208,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 2,
                 team: "Grndsn",
-                played: 10,
-                won: 3,
-                drawn: 2,
+                played: 12,
+                won: 4,
+                drawn: 3,
                 lost: 5,
-                gf: 25,
-                ga: 24,
-                gd: 1,
-                points: 11,
+                gf: 27,
+                ga: 25,
+                gd: 2,
+                points: 15,
             },
             {
                 position: 3,
@@ -3232,14 +3232,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 4,
                 team: "Its Lyta",
-                played: 10,
+                played: 12,
                 won: 3,
-                drawn: 2,
-                lost: 5,
-                gf: 19,
-                ga: 24,
-                gd: -5,
-                points: 11,
+                drawn: 3,
+                lost: 6,
+                gf: 20,
+                ga: 26,
+                gd: -6,
+                points: 12,
             },
             {
                 position: 5,
