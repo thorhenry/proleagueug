@@ -1509,9 +1509,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 5,
                 home: "Ghazi",
-                homeScore: null,
+                homeScore: 3,
                 away: "ThDrkSid001",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-25"
             },
             {
@@ -1657,9 +1657,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 7,
                 home: "Ghazi",
-                homeScore: 3,
+                homeScore: null,
                 away: "Grndsn",
-                awayScore: 0,
+                awayScore: null,
                 date: "2025-07-27"
             },
             {
@@ -2498,9 +2498,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 20,
                 home: "ThDrkSid001",
-                homeScore: null,
+                homeScore: 1,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-09"
             },
             {
@@ -2646,9 +2646,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 22,
                 home: "Grndsn",
-                homeScore: 1,
+                homeScore: null,
                 away: "Ghazi",
-                awayScore: 1,
+                awayScore: null,
                 date: "2025-08-11"
             },
             {
@@ -3208,14 +3208,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 2,
                 team: "Grndsn",
-                played: 12,
+                played: 10,
                 won: 3,
-                drawn: 3,
-                lost: 6,
-                gf: 26,
-                ga: 28,
-                gd: -2,
-                points: 12,
+                drawn: 2,
+                lost: 5,
+                gf: 25,
+                ga: 24,
+                gd: 1,
+                points: 11,
             },
             {
                 position: 3,
@@ -3304,14 +3304,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid001",
-                played: 9,
+                played: 11,
                 won: 5,
-                drawn: 2,
-                lost: 2,
-                gf: 27,
-                ga: 15,
-                gd: 12,
-                points: 17,
+                drawn: 3,
+                lost: 3,
+                gf: 28,
+                ga: 19,
+                gd: 9,
+                points: 18,
             },
             {
                 position: 11,
