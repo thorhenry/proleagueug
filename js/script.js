@@ -1575,9 +1575,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 6,
                 home: "Anko-Fit",
-                homeScore: null,
+                homeScore: 0,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-26"
             },
             {
@@ -2564,9 +2564,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 21,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 2,
                 away: "Anko-Fit",
-                awayScore: null,
+                awayScore: 4,
                 date: "2025-08-10"
             },
             {
@@ -3256,14 +3256,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 6,
                 team: "Its_Volts",
-                played: 10,
-                won: 6,
+                played: 12,
+                won: 7,
                 drawn: 1,
-                lost: 3,
-                gf: 22,
-                ga: 17,
+                lost: 4,
+                gf: 26,
+                ga: 21,
                 gd: 5,
-                points: 19,
+                points: 22,
             },
             {
                 position: 7,
@@ -3352,14 +3352,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 14,
                 team: "Anko-Fit",
-                played: 8,
-                won: 5,
+                played: 10,
+                won: 6,
                 drawn: 1,
-                lost: 2,
-                gf: 22,
-                ga: 20,
+                lost: 3,
+                gf: 26,
+                ga: 24,
                 gd: 2,
-                points: 16,
+                points: 19,
             },
             {
                 position: 15,
