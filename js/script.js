@@ -1543,9 +1543,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 6,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 2,
                 away: "Revash King",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-26"
             },
             {
@@ -1657,9 +1657,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 7,
                 home: "Ghazi",
-                homeScore: null,
+                homeScore: 3,
                 away: "Grndsn",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-27"
             },
             {
@@ -2532,9 +2532,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 21,
                 home: "Revash King",
-                homeScore: null,
+                homeScore: 4,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 5,
                 date: "2025-08-10"
             },
             {
@@ -2646,9 +2646,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 22,
                 home: "Grndsn",
-                homeScore: null,
+                homeScore: 1,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-11"
             },
             {
@@ -3196,26 +3196,26 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 1,
                 team: "Revash King",
-                played: 10,
+                played: 12,
                 won: 4,
-                drawn: 0,
-                lost: 6,
-                gf: 21,
-                ga: 23,
-                gd: -2,
-                points: 12,
+                drawn: 1,
+                lost: 7,
+                gf: 27,
+                ga: 30,
+                gd: -3,
+                points: 13,
             },
             {
                 position: 2,
                 team: "Grndsn",
-                played: 10,
+                played: 12,
                 won: 3,
-                drawn: 2,
-                lost: 5,
-                gf: 25,
-                ga: 24,
-                gd: 1,
-                points: 11,
+                drawn: 3,
+                lost: 6,
+                gf: 26,
+                ga: 28,
+                gd: -2,
+                points: 12,
             },
             {
                 position: 3,
@@ -3244,14 +3244,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 5,
                 team: "Ghazi",
-                played: 10,
-                won: 9,
-                drawn: 0,
+                played: 12,
+                won: 10,
+                drawn: 1,
                 lost: 1,
-                gf: 31,
-                ga: 9,
-                gd: 22,
-                points: 27,
+                gf: 35,
+                ga: 10,
+                gd: 25,
+                points: 31,
             },
             {
                 position: 6,
@@ -3328,14 +3328,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 8,
-                won: 2,
-                drawn: 2,
+                played: 10,
+                won: 3,
+                drawn: 3,
                 lost: 4,
-                gf: 14,
-                ga: 18,
-                gd: -4,
-                points: 8,
+                gf: 21,
+                ga: 24,
+                gd: -3,
+                points: 12,
             },
             {
                 position: 13,
