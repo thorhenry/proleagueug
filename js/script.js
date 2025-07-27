@@ -1591,9 +1591,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 6,
                 home: "The Kraven",
-                homeScore: null,
+                homeScore: 1,
                 away: "Newton FC",
-                awayScore: null,
+                awayScore: 4,
                 date: "2025-07-26"
             },
             {
@@ -2580,9 +2580,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 21,
                 home: "Newton FC",
-                homeScore: null,
+                homeScore: 6,
                 away: "The Kraven",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-10"
             },
             {
@@ -3220,14 +3220,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 3,
                 team: "Newton FC",
-                played: 8,
-                won: 3,
+                played: 10,
+                won: 5,
                 drawn: 0,
                 lost: 5,
-                gf: 17,
-                ga: 28,
-                gd: -11,
-                points: 9,
+                gf: 27,
+                ga: 31,
+                gd: -4,
+                points: 15,
             },
             {
                 position: 4,
@@ -3280,13 +3280,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 8,
                 team: "The Kraven",
-                played: 10,
+                played: 12,
                 won: 3,
                 drawn: 4,
-                lost: 3,
-                gf: 21,
-                ga: 26,
-                gd: -5,
+                lost: 5,
+                gf: 24,
+                ga: 36,
+                gd: -12,
                 points: 13,
             },
             {
