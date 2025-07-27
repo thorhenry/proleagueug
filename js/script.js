@@ -1617,9 +1617,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 7,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-27"
             },
             {
@@ -2606,9 +2606,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 22,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 1,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-11"
             },
             {
@@ -3316,25 +3316,25 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 10,
-                won: 7,
+                played: 12,
+                won: 9,
                 drawn: 0,
                 lost: 3,
-                gf: 38,
-                ga: 17,
-                gd: 21,
-                points: 21,
+                gf: 42,
+                ga: 18,
+                gd: 24,
+                points: 27,
             },
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 10,
+                played: 12,
                 won: 3,
                 drawn: 3,
-                lost: 4,
-                gf: 21,
-                ga: 24,
-                gd: -3,
+                lost: 6,
+                gf: 22,
+                ga: 28,
+                gd: -6,
                 points: 12,
             },
             {
