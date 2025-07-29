@@ -1559,9 +1559,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 6,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 3,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-26"
             },
             {
@@ -1633,9 +1633,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 7,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 3,
                 away: "Anko-Fit",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-27"
             },
             {
@@ -2548,9 +2548,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 21,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-10"
             },
             {
@@ -2622,9 +2622,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 22,
                 home: "Anko-Fit",
-                homeScore: null,
+                homeScore: 1,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-11"
             },
             {
@@ -3316,14 +3316,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 14,
-                won: 11,
+                played: 16,
+                won: 13,
                 drawn: 0,
                 lost: 3,
-                gf: 51,
-                ga: 20,
-                gd: 31,
-                points: 33,
+                gf: 56,
+                ga: 21,
+                gd: 35,
+                points: 39,
             },
             {
                 position: 12,
@@ -3352,14 +3352,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 14,
                 team: "Anko-Fit",
-                played: 10,
+                played: 12,
                 won: 6,
-                drawn: 1,
-                lost: 3,
-                gf: 26,
-                ga: 24,
-                gd: 2,
-                points: 19,
+                drawn: 2,
+                lost: 4,
+                gf: 27,
+                ga: 28,
+                gd: -1,
+                points: 20,
             },
             {
                 position: 15,
@@ -3376,14 +3376,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 16,
                 team: "HenryLuther",
-                played: 8,
-                won: 4,
-                drawn: 1,
-                lost: 3,
-                gf: 17,
-                ga: 16,
-                gd: 1,
-                points: 12,
+                played: 12,
+                won: 5,
+                drawn: 2,
+                lost: 5,
+                gf: 22,
+                ga: 22,
+                gd: 0,
+                points: 17,
             }
         ],
 
