@@ -1641,9 +1641,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 7,
                 home: "Chutosmiles",
-                homeScore: null,
+                homeScore: 0,
                 away: "Lardker FC",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-27"
             },
             {
@@ -2630,9 +2630,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 22,
                 home: "Lardker FC",
-                homeScore: null,
+                homeScore: 1,
                 away: "Chutosmiles",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-11"
             },
             {
@@ -3268,14 +3268,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 7,
                 team: "Chutosmiles",
-                played: 9,
+                played: 11,
                 won: 6,
-                drawn: 0,
+                drawn: 2,
                 lost: 3,
-                gf: 21,
-                ga: 20,
+                gf: 22,
+                ga: 21,
                 gd: 1,
-                points: 18,
+                points: 20,
             },
             {
                 position: 8,
@@ -3292,14 +3292,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 9,
                 team: "Lardker FC",
-                played: 12,
+                played: 14,
                 won: 3,
-                drawn: 3,
+                drawn: 5,
                 lost: 6,
-                gf: 22,
-                ga: 31,
+                gf: 23,
+                ga: 32,
                 gd: -9,
-                points: 12,
+                points: 14,
             },
             {
                 position: 10,
