@@ -1765,9 +1765,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 9,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 3,
                 away: "The Kraven",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-29"
             },
             {
@@ -2754,9 +2754,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 24,
                 home: "The Kraven",
-                homeScore: null,
+                homeScore: 2,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-13"
             },
             {
@@ -3280,14 +3280,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 8,
                 team: "The Kraven",
-                played: 16,
-                won: 5,
+                played: 18,
+                won: 6,
                 drawn: 4,
-                lost: 7,
-                gf: 33,
-                ga: 46,
-                gd: -13,
-                points: 19,
+                lost: 8,
+                gf: 37,
+                ga: 49,
+                gd: -12,
+                points: 22,
             },
             {
                 position: 9,
@@ -3328,14 +3328,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 14,
-                won: 3,
+                played: 16,
+                won: 4,
                 drawn: 3,
-                lost: 8,
-                gf: 24,
-                ga: 35,
-                gd: -11,
-                points: 12,
+                lost: 9,
+                gf: 27,
+                ga: 39,
+                gd: -12,
+                points: 15,
             },
             {
                 position: 13,
