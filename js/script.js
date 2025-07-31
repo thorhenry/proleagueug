@@ -119,7 +119,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 1,
             leg: "First",
             home: "Its Lyta",
-            away: "Darkside",
+            away: "Mignon",
             date: "2025-07-21",
             time: "20:00",
             venue: "IT Stadium"
@@ -127,7 +127,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 1,
             leg: "First",
-            home: "Grndsn",
+            home: "Phenom",
             away: "HenryLuther",
             date: "2025-07-21",
             time: "20:00",
@@ -163,7 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 1,
             leg: "First",
-            home: "ThDrkSid001",
+            home: "Sammy",
             away: "ThorVisual",
             date: "2025-07-21",
             time: "20:00",
@@ -183,7 +183,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 2,
             leg: "First",
-            home: "Darkside",
+            home: "Mignon",
             away: "Ghazi",
             date: "2025-07-22",
             time: "20:00",
@@ -211,7 +211,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 2,
             leg: "First",
             home: "Offer_Art",
-            away: "Grndsn",
+            away: "Phenom",
             date: "2025-07-22",
             time: "20:00",
             venue: "OfferArt Arena"
@@ -237,7 +237,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 2,
             leg: "First",
-            home: "ThDrkSid001",
+            home: "Sammy",
             away: "Anko-Fit",
             date: "2025-07-22",
             time: "20:00",
@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 3,
             leg: "First",
             home: "Revash King",
-            away: "Darkside",
+            away: "Mignon",
             date: "2025-07-23",
             time: "20:00",
             venue: "King's Palace"
@@ -293,7 +293,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 3,
             leg: "First",
-            home: "Grndsn",
+            home: "Phenom",
             away: "ThorVisual",
             date: "2025-07-23",
             time: "20:00",
@@ -303,7 +303,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 3,
             leg: "First",
             home: "The Kraven",
-            away: "ThDrkSid001",
+            away: "Sammy",
             date: "2025-07-23",
             time: "20:00",
             venue: "Aka Arena"
@@ -332,7 +332,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 4,
             leg: "First",
             home: "Dandizzo",
-            away: "Darkside",
+            away: "Mignon",
             date: "2025-07-24",
             time: "20:00",
             venue: "Naija Stadium"
@@ -367,7 +367,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 4,
             leg: "First",
-            home: "ThDrkSid001",
+            home: "Sammy",
             away: "Its Lyta",
             date: "2025-07-24",
             time: "20:00",
@@ -377,7 +377,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 4,
             leg: "First",
             home: "Anko-Fit",
-            away: "Grndsn",
+            away: "Phenom",
             date: "2025-07-24",
             time: "20:00",
             venue: "Colds Arena"
@@ -414,7 +414,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 5,
             leg: "First",
-            home: "Darkside",
+            home: "Mignon",
             away: "Yunusu100",
             date: "2025-07-25",
             time: "20:00",
@@ -433,7 +433,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 5,
             leg: "First",
             home: "Ghazi",
-            away: "ThDrkSid001",
+            away: "Sammy",
             date: "2025-07-25",
             time: "20:00",
             venue: "Namboole"
@@ -459,7 +459,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 5,
             leg: "First",
-            home: "Grndsn",
+            home: "Phenom",
             away: "The Kraven",
             date: "2025-07-25",
             time: "20:00",
@@ -497,8 +497,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 6,
             leg: "First",
-            home: "ThDrkSid001",
-            away: "Darkside",
+            home: "Sammy",
+            away: "Mignon",
             date: "2025-07-26",
             time: "20:00",
             venue: "CJ Arena"
@@ -533,7 +533,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 6,
             leg: "First",
-            home: "Grndsn",
+            home: "Phenom",
             away: "Its Lyta",
             date: "2025-07-26",
             time: "20:00",
@@ -563,7 +563,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 7,
             leg: "First",
             home: "Dandizzo",
-            away: "ThDrkSid001",
+            away: "Sammy",
             date: "2025-07-27",
             time: "20:00",
             venue: "Naija Stadium"
@@ -580,7 +580,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 7,
             leg: "First",
-            home: "Darkside",
+            home: "Mignon",
             away: "Lardker FC",
             date: "2025-07-27",
             time: "20:00",
@@ -599,7 +599,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 7,
             leg: "First",
             home: "Ghazi",
-            away: "Grndsn",
+            away: "Phenom",
             date: "2025-07-27",
             time: "20:00",
             venue: "Namboole"
@@ -627,7 +627,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 8,
             leg: "First",
-            home: "ThDrkSid001",
+            home: "Sammy",
             away: "Yunusu100",
             date: "2025-07-28",
             time: "20:00",
@@ -663,8 +663,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 8,
             leg: "First",
-            home: "Grndsn",
-            away: "Darkside",
+            home: "Phenom",
+            away: "Mignon",
             date: "2025-07-28",
             time: "20:00",
             venue: "Legit Arena"
@@ -693,7 +693,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 9,
             leg: "First",
             home: "Revash King",
-            away: "ThDrkSid001",
+            away: "Sammy",
             date: "2025-07-29",
             time: "20:00",
             venue: "King's Palace"
@@ -729,7 +729,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 9,
             leg: "First",
             home: "Dandizzo",
-            away: "Grndsn",
+            away: "Phenom",
             date: "2025-07-29",
             time: "20:00",
             venue: "Naija Stadium"
@@ -746,7 +746,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 9,
             leg: "First",
-            home: "Darkside",
+            home: "Mignon",
             away: "Newton FC",
             date: "2025-07-29",
             time: "20:00",
@@ -776,7 +776,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 10,
             leg: "First",
             home: "Lardker FC",
-            away: "ThDrkSid001",
+            away: "Sammy",
             date: "2025-07-30",
             time: "20:00",
             venue: "Lards Arena"
@@ -793,7 +793,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 10,
             leg: "First",
-            home: "Grndsn",
+            home: "Phenom",
             away: "Yunusu100",
             date: "2025-07-30",
             time: "20:00",
@@ -830,7 +830,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 10,
             leg: "First",
             home: "Its_Volts",
-            away: "Darkside",
+            away: "Mignon",
             date: "2025-07-30",
             time: "20:00",
             venue: "Volts Arena"
@@ -858,8 +858,8 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 11,
             leg: "First",
-            home: "ThDrkSid001",
-            away: "Grndsn",
+            home: "Sammy",
+            away: "Phenom",
             date: "2025-07-31",
             time: "20:00",
             venue: "CJ Arena"
@@ -904,7 +904,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 11,
             leg: "First",
             home: "HenryLuther",
-            away: "Darkside",
+            away: "Mignon",
             date: "2025-07-31",
             time: "20:00",
             venue: "OT"
@@ -923,7 +923,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 12,
             leg: "First",
-            home: "Grndsn",
+            home: "Phenom",
             away: "Lardker FC",
             date: "2025-08-01",
             time: "20:00",
@@ -942,7 +942,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 12,
             leg: "First",
             home: "Newton FC",
-            away: "ThDrkSid001",
+            away: "Sammy",
             date: "2025-08-01",
             time: "20:00",
             venue: "Emirates Arena"
@@ -968,7 +968,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 12,
             leg: "First",
-            home: "Darkside",
+            home: "Mignon",
             away: "Offer_Art",
             date: "2025-08-01",
             time: "20:00",
@@ -989,7 +989,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 13,
             leg: "First",
             home: "Revash King",
-            away: "Grndsn",
+            away: "Phenom",
             date: "2025-08-02",
             time: "20:00",
             venue: "King's Palace"
@@ -1024,7 +1024,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 13,
             leg: "First",
-            home: "ThDrkSid001",
+            home: "Sammy",
             away: "Its_Volts",
             date: "2025-08-02",
             time: "20:00",
@@ -1034,7 +1034,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 13,
             leg: "First",
             home: "ThorVisual",
-            away: "Darkside",
+            away: "Mignon",
             date: "2025-08-02",
             time: "20:00",
             venue: "Thunder Ground"
@@ -1072,7 +1072,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 14,
             leg: "First",
             home: "Newton FC",
-            away: "Grndsn",
+            away: "Phenom",
             date: "2025-08-03",
             time: "20:00",
             venue: "Emirates Arena"
@@ -1098,7 +1098,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 14,
             leg: "First",
-            home: "Darkside",
+            home: "Mignon",
             away: "Anko-Fit",
             date: "2025-08-03",
             time: "20:00",
@@ -1108,7 +1108,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 14,
             leg: "First",
             home: "HenryLuther",
-            away: "ThDrkSid001",
+            away: "Sammy",
             date: "2025-08-03",
             time: "20:00",
             venue: "OT"
@@ -1154,7 +1154,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 15,
             leg: "First",
-            home: "Grndsn",
+            home: "Phenom",
             away: "Its_Volts",
             date: "2025-08-04",
             time: "20:00",
@@ -1164,7 +1164,7 @@ document.addEventListener('DOMContentLoaded', () => {
             matchday: 15,
             leg: "First",
             home: "The Kraven",
-            away: "Darkside",
+            away: "Mignon",
             date: "2025-08-04",
             time: "20:00",
             venue: "Aka Arena"
@@ -1190,7 +1190,7 @@ document.addEventListener('DOMContentLoaded', () => {
         {
             matchday: 15,
             leg: "First",
-            home: "ThDrkSid001",
+            home: "Sammy",
             away: "Offer_Art",
             date: "2025-08-04",
             time: "20:00",
@@ -1230,13 +1230,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 1,
                 home: "Its Lyta",
                 homeScore: 3,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: 4,
                 date: "2025-07-21"
             },
             {   
                 matchday: 1,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: 1,
                 away: "HenryLuther",
                 awayScore: 1,
@@ -1268,7 +1268,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 1,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: 3,
                 away: "ThorVisual",
                 awayScore: 5,
@@ -1286,7 +1286,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 2,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: 4,
                 away: "Ghazi",
                 awayScore: 3,
@@ -1312,7 +1312,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 2,
                 home: "Offer_Art",
                 homeScore: 1,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: 2,
                 date: "2025-07-22"
             },
@@ -1334,7 +1334,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 2,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: 1,
                 away: "Anko-Fit",
                 awayScore: 3,
@@ -1346,7 +1346,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 3,
                 home: "Revash King",
                 homeScore: 0,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: 4,
                 date: "2025-07-23"
             },
@@ -1384,7 +1384,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 3,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: 3,
                 away: "ThorVisual",
                 awayScore: 4,
@@ -1394,7 +1394,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 3,
                 home: "The Kraven",
                 homeScore: 3,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: 3,
                 date: "2025-07-23"
             },
@@ -1420,7 +1420,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 4,
                 home: "Dandizzo",
                 homeScore: 0,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: 1,
                 date: "2025-07-24"
             },
@@ -1450,7 +1450,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 4,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: 3,
                 away: "Its Lyta",
                 awayScore: 0,
@@ -1460,7 +1460,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 4,
                 home: "Anko-Fit",
                 homeScore: 1,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: 4,
                 date: "2025-07-24"
             },
@@ -1492,7 +1492,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 5,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: null,
                 away: "Yunusu100",
                 awayScore: null,
@@ -1510,7 +1510,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 5,
                 home: "Ghazi",
                 homeScore: 3,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: 0,
                 date: "2025-07-25"
             },
@@ -1532,7 +1532,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 5,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: 1,
                 away: "The Kraven",
                 awayScore: 1,
@@ -1566,9 +1566,9 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 6,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: 3,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: 0,
                 date: "2025-07-26"
             },
@@ -1598,7 +1598,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 6,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: 1,
                 away: "Its Lyta",
                 awayScore: 0,
@@ -1626,7 +1626,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 7,
                 home: "Dandizzo",
                 homeScore: 1,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: 2,
                 date: "2025-07-27"
             },
@@ -1640,7 +1640,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 7,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: 0,
                 away: "Lardker FC",
                 awayScore: 0,
@@ -1657,9 +1657,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 7,
                 home: "Ghazi",
-                homeScore: null,
-                away: "Grndsn",
-                awayScore: null,
+                homeScore: 4,
+                away: "Phenom",
+                awayScore: 1,
                 date: "2025-07-27"
             },
             {
@@ -1682,7 +1682,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 8,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: 1,
                 away: "Yunusu100",
                 awayScore: 6,
@@ -1691,9 +1691,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 8,
                 home: "Anko-Fit",
-                homeScore: null,
+                homeScore: 2,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-07-28"
             },
             {
@@ -1714,10 +1714,10 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 8,
-                home: "Grndsn",
-                homeScore: null,
-                away: "Darkside",
-                awayScore: null,
+                home: "Phenom",
+                homeScore: 3,
+                away: "Mignon",
+                awayScore: 4,
                 date: "2025-07-28"
             },
             {
@@ -1742,7 +1742,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 9,
                 home: "Revash King",
                 homeScore: null,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: null,
                 date: "2025-07-29"
             },
@@ -1774,7 +1774,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 9,
                 home: "Dandizzo",
                 homeScore: 1,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: 0,
                 date: "2025-07-29"
             },
@@ -1788,7 +1788,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 9,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: null,
                 away: "Newton FC",
                 awayScore: null,
@@ -1815,7 +1815,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 10,
                 home: "Lardker FC",
                 homeScore: null,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: null,
                 date: "2025-07-30"
             },
@@ -1829,7 +1829,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 10,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: null,
                 away: "Yunusu100",
                 awayScore: null,
@@ -1862,9 +1862,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 10,
                 home: "Its_Volts",
-                homeScore: null,
-                away: "Darkside",
-                awayScore: null,
+                homeScore: 3,
+                away: "Mignon",
+                awayScore: 1,
                 date: "2025-07-30"
             },
 
@@ -1887,9 +1887,9 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 11,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: null,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: null,
                 date: "2025-07-31"
             },
@@ -1929,7 +1929,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 11,
                 home: "HenryLuther",
                 homeScore: null,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: null,
                 date: "2025-07-31"
             },
@@ -1945,7 +1945,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 12,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: null,
                 away: "Lardker FC",
                 awayScore: null,
@@ -1963,7 +1963,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 12,
                 home: "Newton FC",
                 homeScore: null,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: null,
                 date: "2025-08-01"
             },
@@ -1985,7 +1985,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 12,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: null,
                 away: "Offer_Art",
                 awayScore: null,
@@ -2005,7 +2005,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 13,
                 home: "Revash King",
                 homeScore: null,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: null,
                 date: "2025-08-02"
             },
@@ -2035,7 +2035,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 13,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: null,
                 away: "Its_Volts",
                 awayScore: null,
@@ -2045,7 +2045,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 13,
                 home: "ThorVisual",
                 homeScore: null,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: null,
                 date: "2025-08-02"
             },
@@ -2079,7 +2079,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 14,
                 home: "Newton FC",
                 homeScore: null,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: null,
                 date: "2025-08-03"
             },
@@ -2101,7 +2101,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 14,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: null,
                 away: "Anko-Fit",
                 awayScore: null,
@@ -2111,7 +2111,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 14,
                 home: "HenryLuther",
                 homeScore: null,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: null,
                 date: "2025-08-03"
             },
@@ -2151,7 +2151,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 15,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: null,
                 away: "Its_Volts",
                 awayScore: null,
@@ -2161,7 +2161,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 15,
                 home: "The Kraven",
                 homeScore: null,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: null,
                 date: "2025-08-04"
             },
@@ -2183,7 +2183,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 15,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: null,
                 away: "Offer_Art",
                 awayScore: null,
@@ -2217,7 +2217,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 16,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: 3,
                 away: "Its Lyta",
                 awayScore: 0,
@@ -2227,7 +2227,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 16,
                 home: "HenryLuther",
                 homeScore: 3,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: 2,
                 date: "2025-08-05"
             },
@@ -2259,7 +2259,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 16,
                 home: "ThorVisual",
                 homeScore: 0,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: 3,
                 date: "2025-08-05"
             },
@@ -2277,7 +2277,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 17,
                 home: "Ghazi",
                 homeScore: 6,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: 1,
                 date: "2025-08-06"
             },
@@ -2299,7 +2299,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 17,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: 2,
                 away: "Offer_Art",
                 awayScore: 3,
@@ -2325,7 +2325,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 17,
                 home: "Anko-Fit",
                 homeScore: 3,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: 3,
                 date: "2025-08-06"
             },
@@ -2333,7 +2333,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Matchday 18
             {
                 matchday: 18,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: 1,
                 away: "Revash King",
                 awayScore: 4,
@@ -2375,13 +2375,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 18,
                 home: "ThorVisual",
                 homeScore: 3,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: 1,
                 date: "2025-08-07"
             },
             {
                 matchday: 18,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: 5,
                 away: "The Kraven",
                 awayScore: 0,
@@ -2407,7 +2407,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 19,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: 3,
                 away: "Dandizzo",
                 awayScore: 1,
@@ -2441,13 +2441,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 19,
                 home: "Its Lyta",
                 homeScore: 1,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: 3,
                 date: "2025-08-08"
             },
             {
                 matchday: 19,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: 6,
                 away: "Anko-Fit",
                 awayScore: 3,
@@ -2483,7 +2483,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 20,
                 home: "Yunusu100",
                 homeScore: null,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: null,
                 date: "2025-08-09"
             },
@@ -2497,7 +2497,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 20,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: 1,
                 away: "Ghazi",
                 awayScore: 1,
@@ -2523,7 +2523,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 20,
                 home: "The Kraven",
                 homeScore: 4,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: 3,
                 date: "2025-08-09"
             },
@@ -2555,9 +2555,9 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 21,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: null,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: null,
                 date: "2025-08-10"
             },
@@ -2589,7 +2589,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 21,
                 home: "Its Lyta",
                 homeScore: 1,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: 1,
                 date: "2025-08-10"
             },
@@ -2613,7 +2613,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 22,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: 5,
                 away: "Dandizzo",
                 awayScore: 2,
@@ -2631,7 +2631,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 22,
                 home: "Lardker FC",
                 homeScore: 1,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: 1,
                 date: "2025-08-11"
             },
@@ -2645,10 +2645,10 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 22,
-                home: "Grndsn",
-                homeScore: null,
+                home: "Phenom",
+                homeScore: 3,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-11"
             },
             {
@@ -2673,16 +2673,16 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 23,
                 home: "Yunusu100",
                 homeScore: 3,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: 0,
                 date: "2025-08-12"
             },
             {
                 matchday: 23,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 1,
                 away: "Anko-Fit",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-12"
             },
             {
@@ -2703,10 +2703,10 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 23,
-                home: "Darkside",
-                homeScore: null,
-                away: "Grndsn",
-                awayScore: null,
+                home: "Mignon",
+                homeScore: 4,
+                away: "Phenom",
+                awayScore: 2,
                 date: "2025-08-12"
             },
             {
@@ -2729,7 +2729,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Matchday 24
             {
                 matchday: 24,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: null,
                 away: "Revash King",
                 awayScore: null,
@@ -2761,7 +2761,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 24,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: 5,
                 away: "Dandizzo",
                 awayScore: 2,
@@ -2779,7 +2779,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 24,
                 home: "Newton FC",
                 homeScore: null,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: null,
                 date: "2025-08-13"
             },
@@ -2803,7 +2803,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 25,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: null,
                 away: "Lardker FC",
                 awayScore: null,
@@ -2821,7 +2821,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 25,
                 home: "Yunusu100",
                 homeScore: null,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: null,
                 date: "2025-08-14"
             },
@@ -2851,10 +2851,10 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 25,
-                home: "Darkside",
-                homeScore: null,
+                home: "Mignon",
+                homeScore: 0,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-14"
             },
 
@@ -2878,9 +2878,9 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 26,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: null,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: null,
                 date: "2025-08-15"
             },
@@ -2918,7 +2918,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 26,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: null,
                 away: "HenryLuther",
                 awayScore: null,
@@ -2938,7 +2938,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 27,
                 home: "Lardker FC",
                 homeScore: null,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: null,
                 date: "2025-08-16"
             },
@@ -2952,7 +2952,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 27,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: null,
                 away: "Newton FC",
                 awayScore: null,
@@ -2978,7 +2978,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 27,
                 home: "Offer_Art",
                 homeScore: null,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: null,
                 date: "2025-08-16"
             },
@@ -2994,7 +2994,7 @@ document.addEventListener('DOMContentLoaded', () => {
             // Matchday 28
             {
                 matchday: 28,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: null,
                 away: "Revash King",
                 awayScore: null,
@@ -3028,13 +3028,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 28,
                 home: "Its_Volts",
                 homeScore: null,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: null,
                 date: "2025-08-17"
             },
             {
                 matchday: 28,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: null,
                 away: "ThorVisual",
                 awayScore: null,
@@ -3068,7 +3068,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 matchday: 29,
-                home: "Grndsn",
+                home: "Phenom",
                 homeScore: null,
                 away: "Newton FC",
                 awayScore: null,
@@ -3094,13 +3094,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 29,
                 home: "Anko-Fit",
                 homeScore: null,
-                away: "Darkside",
+                away: "Mignon",
                 awayScore: null,
                 date: "2025-08-18"
             },
             {
                 matchday: 29,
-                home: "ThDrkSid001",
+                home: "Sammy",
                 homeScore: null,
                 away: "HenryLuther",
                 awayScore: null,
@@ -3144,13 +3144,13 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 30,
                 home: "Its_Volts",
                 homeScore: null,
-                away: "Grndsn",
+                away: "Phenom",
                 awayScore: null,
                 date: "2025-08-19"
             },
             {
                 matchday: 30,
-                home: "Darkside",
+                home: "Mignon",
                 homeScore: null,
                 away: "The Kraven",
                 awayScore: null,
@@ -3176,7 +3176,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 matchday: 30,
                 home: "Offer_Art",
                 homeScore: null,
-                away: "ThDrkSid001",
+                away: "Sammy",
                 awayScore: null,
                 date: "2025-08-19"
             },
@@ -3207,15 +3207,15 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 position: 2,
-                team: "Grndsn",
-                played: 14,
+                team: "Phenom",
+                played: 18,
                 won: 6,
-                drawn: 3,
-                lost: 5,
-                gf: 33,
-                ga: 28,
-                gd: 5,
-                points: 21,
+                drawn: 4,
+                lost: 8,
+                gf: 42,
+                ga: 43,
+                gd: -1,
+                points: 22,
             },
             {
                 position: 3,
@@ -3244,38 +3244,38 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 5,
                 team: "Ghazi",
-                played: 14,
-                won: 11,
-                drawn: 1,
+                played: 16,
+                won: 12,
+                drawn: 2,
                 lost: 2,
-                gf: 40,
-                ga: 17,
-                gd: 23,
-                points: 34,
+                gf: 47,
+                ga: 21,
+                gd: 26,
+                points: 38,
             },
             {
                 position: 6,
                 team: "Its_Volts",
-                played: 18,
-                won: 10,
+                played: 20,
+                won: 11,
                 drawn: 1,
-                lost: 7,
-                gf: 43,
-                ga: 35,
-                gd: 8,
-                points: 31,
+                lost: 8,
+                gf: 46,
+                ga: 37,
+                gd: 9,
+                points: 33,
             },
             {
                 position: 7,
-                team: "Darkside",
-                played: 11,
-                won: 6,
+                team: "Mignon",
+                played: 15,
+                won: 9,
                 drawn: 2,
-                lost: 3,
-                gf: 22,
-                ga: 21,
-                gd: 1,
-                points: 20,
+                lost: 4,
+                gf: 32,
+                ga: 29,
+                gd: 3,
+                points: 29,
             },
             {
                 position: 8,
@@ -3303,7 +3303,7 @@ document.addEventListener('DOMContentLoaded', () => {
             },
             {
                 position: 10,
-                team: "ThDrkSid001",
+                team: "Sammy",
                 played: 15,
                 won: 7,
                 drawn: 3,
@@ -3328,14 +3328,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 16,
+                played: 18,
                 won: 4,
-                drawn: 3,
-                lost: 9,
-                gf: 27,
-                ga: 39,
-                gd: -12,
-                points: 15,
+                drawn: 4,
+                lost: 10,
+                gf: 28,
+                ga: 42,
+                gd: -14,
+                points: 16,
             },
             {
                 position: 13,
@@ -3352,14 +3352,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 14,
                 team: "Anko-Fit",
-                played: 14,
-                won: 6,
-                drawn: 2,
+                played: 16,
+                won: 7,
+                drawn: 3,
                 lost: 6,
-                gf: 29,
-                ga: 34,
-                gd: -5,
-                points: 20,
+                gf: 32,
+                ga: 35,
+                gd: -3,
+                points: 24,
             },
             {
                 position: 15,
@@ -3390,9 +3390,9 @@ document.addEventListener('DOMContentLoaded', () => {
 
         clubs: [
             {
-                name: "Grndsn",
+                name: "Phenom",
                 logo: "images/club-logos/imoizy.svg",
-                manager: "Grndsn",
+                manager: "Phenom",
                 stadium: "Legit Arena",
                 founded: "2022",
                 location: "Arua, Uganda"
@@ -3422,7 +3422,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 location: "Gulu, Uganda"
             },
             {
-                name: "ThDrkSid001",
+                name: "Sammy",
                 logo: "images/club-logos/jey-collectionz.svg",
                 manager: "ThDrkSid",
                 stadium: "CJ Arena",
@@ -3430,7 +3430,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 location: "Gulu, Uganda"
             },
             {
-                name: "Darkside",
+                name: "Mignon",
                 logo: "images/club-logos/chutosmiles.svg",
                 manager: "OMaRa",
                 stadium: "OT Arena",
@@ -4680,12 +4680,12 @@ document.addEventListener('DOMContentLoaded', () => {
                             matches: [
                                 { home: "ThorVisual", away: "Its_Volts", time: "20:00", venue: "Thunder Ground", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
                                 { home: "Ghazi", away: "HenryLuther", time: "20:00", venue: "Namboole", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
-                                { home: "The Kraven", away: "Darkside", time: "20:00", venue: "Aka Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
+                                { home: "The Kraven", away: "Mignon", time: "20:00", venue: "Aka Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
                                 { home: "Yunusu100", away: "Revash King", time: "20:00", venue: "Urban Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
                                 { home: "Its Lyta", away: "Offer_Art", time: "20:00", venue: "IT Stadium", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
                                 { home: "Anko-Fit", away: "Newton FC", time: "20:00", venue: "Colds Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
-                                { home: "ThDrkSid001", away: "Dandizzo", time: "20:00", venue: "CJ Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
-                                { home: "Grndsn", away: "Lardker FC", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null }
+                                { home: "Sammy", away: "Dandizzo", time: "20:00", venue: "CJ Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null },
+                                { home: "Phenom", away: "Lardker FC", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null, homePenalty: null, awayPenalty: null }
                             ]
                         },
                         {
@@ -4829,7 +4829,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         date: '2025-07-29',
                         matches: [
                             { home: "Revash King", away: "The Kraven", time: "20:00", venue: "King's Palace", homeScore: null, awayScore: null },
-                            { home: "Grndsn", away: "Newton FC", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null },
+                            { home: "Phenom", away: "Newton FC", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null },
                             { home: "ThorVisual", away: "Ghazi", time: "20:00", venue: "Thunder Ground", homeScore: null, awayScore: null },
                             { home: "Anko-Fit", away: "Offer_Art", time: "20:00", venue: "Colds Arena", homeScore: null, awayScore: null }
                         ]
@@ -4838,7 +4838,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         round: 'Group Stage - Matchday 2',
                         date: '2025-07-31',
                         matches: [
-                            { home: "Grndsn", away: "Revash King", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null },
+                            { home: "Phenom", away: "Revash King", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null },
                             { home: "Newton FC", away: "The Kraven", time: "20:00", venue: "Emirates Arena", homeScore: null, awayScore: null },
                             { home: "Anko-Fit", away: "ThorVisual", time: "20:00", venue: "Colds Arena", homeScore: null, awayScore: null },
                             { home: "Offer_Art", away: "Ghazi", time: "20:00", venue: "OfferArt Arena", homeScore: null, awayScore: null }
@@ -4849,7 +4849,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         date: '2025-08-02',
                         matches: [
                             { home: "Newton FC", away: "Revash King", time: "20:00", venue: "Emirates Arena", homeScore: null, awayScore: null },
-                            { home: "The Kraven", away: "Grndsn", time: "20:00", venue: "Aka Arena", homeScore: null, awayScore: null },
+                            { home: "The Kraven", away: "Phenom", time: "20:00", venue: "Aka Arena", homeScore: null, awayScore: null },
                             { home: "Offer_Art", away: "ThorVisual", time: "20:00", venue: "OfferArt Arena", homeScore: null, awayScore: null },
                             { home: "Ghazi", away: "Anko-Fit", time: "20:00", venue: "Namboole", homeScore: null, awayScore: null }
                         ]
@@ -4858,7 +4858,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         round: 'Group Stage - Matchday 4',
                         date: '2025-05-27',
                         matches: [
-                            { home: "Grndsn", away: "The Kraven", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null },
+                            { home: "Phenom", away: "The Kraven", time: "20:00", venue: "Legit Arena", homeScore: null, awayScore: null },
                             { home: "Revash King", away: "Newton FC", time: "20:00", venue: "King's Palace", homeScore: null, awayScore: null },
                             { home: "ThorVisual", away: "Offer_Art", time: "20:00", venue: "Thunder Ground", homeScore: null, awayScore: null },
                             { home: "Anko-Fit", away: "Ghazi", time: "20:00", venue: "Colds Arena", homeScore: null, awayScore: null }
@@ -4868,7 +4868,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         round: 'Group Stage - Matchday 5',
                         date: '2025-05-29',
                         matches: [
-                            { home: "Revash King", away: "Grndsn", time: "20:00", venue: "King's Palace", homeScore: null, awayScore: null },
+                            { home: "Revash King", away: "Phenom", time: "20:00", venue: "King's Palace", homeScore: null, awayScore: null },
                             { home: "The Kraven", away: "Newton FC", time: "20:00", venue: "Aka Arena", homeScore: null, awayScore: null },
                             { home: "ThorVisual", away: "Anko-Fit", time: "20:00", venue: "Thunder Ground", homeScore: null, awayScore: null },
                             { home: "Ghazi", away: "Offer_Art", time: "20:00", venue: "Namboole", homeScore: null, awayScore: null }
@@ -4879,7 +4879,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         date: '2025-05-31',
                         matches: [
                             { home: "The Kraven", away: "Revash King", time: "20:00", venue: "Aka Arena", homeScore: null, awayScore: null },
-                            { home: "Newton FC", away: "Grndsn", time: "20:00", venue: "Emirates Arena", homeScore: null, awayScore: null },
+                            { home: "Newton FC", away: "Phenom", time: "20:00", venue: "Emirates Arena", homeScore: null, awayScore: null },
                             { home: "Ghazi", away: "ThorVisual", time: "20:00", venue: "Namboole", homeScore: null, awayScore: null },
                             { home: "Offer_Art", away: "Anko-Fit", time: "20:00", venue: "OfferArt Arena", homeScore: null, awayScore: null }
                         ]
@@ -4963,7 +4963,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     'Group A': [
                         { team: "Revash King", played: 0, won: 0, drawn: 0, lost: 0, goalsFor: 0, goalsAgainst: 0, points: 0 },
                         { team: "The Kraven", played: 0, won: 0, drawn: 0, lost: 0, goalsFor: 0, goalsAgainst: 0, points: 0 },
-                        { team: "Grndsn", played: 0, won: 0, drawn: 0, lost: 0, goalsFor: 0, goalsAgainst: 0, points: 0 },
+                        { team: "Phenom", played: 0, won: 0, drawn: 0, lost: 0, goalsFor: 0, goalsAgainst: 0, points: 0 },
                         { team: "Newton FC", played: 0, won: 0, drawn: 0, lost: 0, goalsFor: 0, goalsAgainst: 0, points: 0 }
                     ],
                     'Group B': [
