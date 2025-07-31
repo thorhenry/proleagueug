@@ -1838,9 +1838,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 10,
                 home: "Its Lyta",
-                homeScore: null,
+                homeScore: 3,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 4,
                 date: "2025-07-30"
             },
             {
@@ -2828,9 +2828,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 25,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 2,
                 away: "Its Lyta",
-                awayScore: null,
+                awayScore: 4,
                 date: "2025-08-14"
             },
             {
@@ -3232,14 +3232,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 4,
                 team: "Its Lyta",
-                played: 16,
-                won: 6,
+                played: 18,
+                won: 7,
                 drawn: 3,
-                lost: 7,
-                gf: 32,
-                ga: 35,
-                gd: -3,
-                points: 21,
+                lost: 8,
+                gf: 39,
+                ga: 41,
+                gd: -2,
+                points: 24,
             },
             {
                 position: 5,
@@ -3328,14 +3328,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 18,
-                won: 4,
+                played: 20,
+                won: 5,
                 drawn: 4,
-                lost: 10,
-                gf: 28,
-                ga: 42,
-                gd: -14,
-                points: 16,
+                lost: 11,
+                gf: 34,
+                ga: 49,
+                gd: -15,
+                points: 19,
             },
             {
                 position: 13,
