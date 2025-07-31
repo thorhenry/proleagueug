@@ -1822,9 +1822,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 10,
                 home: "The Kraven",
-                homeScore: null,
+                homeScore: 2,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-30"
             },
             {
@@ -2812,9 +2812,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 25,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 3,
                 away: "The Kraven",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-14"
             },
             {
@@ -3280,14 +3280,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 8,
                 team: "The Kraven",
-                played: 18,
+                played: 20,
                 won: 6,
-                drawn: 4,
-                lost: 8,
-                gf: 37,
-                ga: 49,
-                gd: -12,
-                points: 22,
+                drawn: 5,
+                lost: 9,
+                gf: 39,
+                ga: 54,
+                gd: -15,
+                points: 23,
             },
             {
                 position: 9,
@@ -3316,14 +3316,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 18,
-                won: 15,
-                drawn: 0,
+                played: 20,
+                won: 16,
+                drawn: 1,
                 lost: 3,
-                gf: 62,
-                ga: 23,
-                gd: 39,
-                points: 45,
+                gf: 67,
+                ga: 25,
+                gd: 42,
+                points: 49,
             },
             {
                 position: 12,
