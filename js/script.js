@@ -1814,9 +1814,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 10,
                 home: "Lardker FC",
-                homeScore: null,
+                homeScore: 3,
                 away: "ThDrkSid100",
-                awayScore: null,
+                awayScore: 5,
                 date: "2025-07-30"
             },
             {
@@ -1928,9 +1928,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 11,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 0,
                 away: "Mignon",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-07-31"
             },
 
@@ -2804,9 +2804,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 25,
                 home: "ThDrkSid100",
-                homeScore: null,
+                homeScore: 2,
                 away: "Lardker FC",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-14"
             },
             {
@@ -2919,9 +2919,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 26,
                 home: "Mignon",
-                homeScore: null,
+                homeScore: 2,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-15"
             },
 
@@ -3268,14 +3268,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 7,
                 team: "Mignon",
-                played: 15,
-                won: 9,
+                played: 17,
+                won: 10,
                 drawn: 2,
-                lost: 4,
-                gf: 32,
-                ga: 29,
+                lost: 5,
+                gf: 34,
+                ga: 31,
                 gd: 3,
-                points: 29,
+                points: 32,
             },
             {
                 position: 8,
@@ -3292,26 +3292,26 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 9,
                 team: "Lardker FC",
-                played: 18,
+                played: 20,
                 won: 5,
                 drawn: 5,
-                lost: 8,
-                gf: 31,
-                ga: 42,
-                gd: -11,
+                lost: 10,
+                gf: 35,
+                ga: 49,
+                gd: -14,
                 points: 20,
             },
             {
                 position: 10,
                 team: "ThDrkSid100",
-                played: 15,
-                won: 7,
+                played: 17,
+                won: 9,
                 drawn: 3,
                 lost: 5,
-                gf: 36,
-                ga: 31,
-                gd: 5,
-                points: 24,
+                gf: 43,
+                ga: 35,
+                gd: 8,
+                points: 30,
             },
             {
                 position: 11,
@@ -3376,14 +3376,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 16,
                 team: "HenryLuther",
-                played: 20,
-                won: 8,
+                played: 22,
+                won: 9,
                 drawn: 2,
-                lost: 10,
-                gf: 38,
-                ga: 43,
+                lost: 11,
+                gf: 40,
+                ga: 45,
                 gd: -5,
-                points: 26,
+                points: 29,
             }
         ],
 
