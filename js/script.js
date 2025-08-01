@@ -2919,9 +2919,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 26,
                 home: "Mignon",
-                homeScore: 2,
+                homeScore: 1,
                 away: "HenryLuther",
-                awayScore: 1,
+                awayScore: 2,
                 date: "2025-08-15"
             },
 
