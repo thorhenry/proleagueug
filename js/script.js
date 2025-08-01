@@ -1789,9 +1789,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 9,
                 home: "Mignon",
-                homeScore: null,
+                homeScore: 4,
                 away: "Newton FC",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-29"
             },
             {
@@ -2778,9 +2778,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 24,
                 home: "Newton FC",
-                homeScore: null,
+                homeScore: 4,
                 away: "Mignon",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-13"
             },
             {
@@ -3220,14 +3220,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 3,
                 team: "Newton FC",
-                played: 10,
-                won: 5,
+                played: 12,
+                won: 6,
                 drawn: 0,
-                lost: 5,
-                gf: 27,
-                ga: 31,
-                gd: -4,
-                points: 15,
+                lost: 6,
+                gf: 34,
+                ga: 39,
+                gd: -5,
+                points: 18,
             },
             {
                 position: 4,
@@ -3268,14 +3268,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 7,
                 team: "Mignon",
-                played: 17,
-                won: 10,
+                played: 19,
+                won: 11,
                 drawn: 2,
-                lost: 5,
-                gf: 34,
-                ga: 31,
+                lost: 6,
+                gf: 41,
+                ga: 38,
                 gd: 3,
-                points: 32,
+                points: 35,
             },
             {
                 position: 8,
