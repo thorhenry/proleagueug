@@ -1741,9 +1741,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 9,
                 home: "Revash King",
-                homeScore: null,
+                homeScore: 5,
                 away: "ThDrkSid100",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-29"
             },
             {
@@ -1888,9 +1888,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 11,
                 home: "ThDrkSid100",
-                homeScore: null,
+                homeScore: 2,
                 away: "Grndsn",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-31"
             },
             {
@@ -1994,9 +1994,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 12,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 0,
                 away: "Dandizzo",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-01"
             },
 
@@ -2730,9 +2730,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 24,
                 home: "ThDrkSid100",
-                homeScore: null,
+                homeScore: 2,
                 away: "Revash King",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-13"
             },
             {
@@ -2879,9 +2879,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 26,
                 home: "Grndsn",
-                homeScore: null,
+                homeScore: 4,
                 away: "ThDrkSid100",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-15"
             },
             {
@@ -2985,9 +2985,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 27,
                 home: "Dandizzo",
-                homeScore: null,
+                homeScore: 2,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-16"
             },
 
@@ -3196,26 +3196,26 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 1,
                 team: "Revash King",
-                played: 18,
-                won: 5,
+                played: 20,
+                won: 6,
                 drawn: 2,
-                lost: 13,
-                gf: 37,
-                ga: 48,
-                gd: -11,
-                points: 17,
+                lost: 12,
+                gf: 43,
+                ga: 52,
+                gd: -9,
+                points: 20,
             },
             {
                 position: 2,
                 team: "Grndsn",
-                played: 22,
-                won: 7,
-                drawn: 5,
+                played: 24,
+                won: 8,
+                drawn: 6,
                 lost: 10,
-                gf: 48,
-                ga: 49,
-                gd: -1,
-                points: 26,
+                gf: 54,
+                ga: 52,
+                gd: 2,
+                points: 30,
             },
             {
                 position: 3,
@@ -3304,14 +3304,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid100",
-                played: 17,
-                won: 9,
-                drawn: 3,
-                lost: 5,
-                gf: 43,
-                ga: 35,
-                gd: 8,
-                points: 30,
+                played: 21,
+                won: 10,
+                drawn: 4,
+                lost: 7,
+                gf: 52,
+                ga: 45,
+                gd: 7,
+                points: 34,
             },
             {
                 position: 11,
@@ -3364,26 +3364,26 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 15,
                 team: "Dandizzo",
-                played: 18,
-                won: 2,
+                played: 20,
+                won: 3,
                 drawn: 0,
-                lost: 16,
-                gf: 19,
-                ga: 54,
-                gd: -35,
-                points: 6,
+                lost: 17,
+                gf: 23,
+                ga: 57,
+                gd: -32,
+                points: 9,
             },
             {
                 position: 16,
                 team: "HenryLuther",
-                played: 22,
-                won: 9,
+                played: 24,
+                won: 10,
                 drawn: 2,
-                lost: 11,
-                gf: 40,
-                ga: 45,
-                gd: -5,
-                points: 29,
+                lost: 12,
+                gf: 43,
+                ga: 49,
+                gd: -6,
+                points: 32,
             }
         ],
 
