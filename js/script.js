@@ -2036,9 +2036,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 13,
                 home: "ThDrkSid100",
-                homeScore: null,
+                homeScore: 0,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-02"
             },
             {
@@ -3027,9 +3027,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 28,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThDrkSid100",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-17"
             },
             {
@@ -3256,14 +3256,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 6,
                 team: "Its_Volts",
-                played: 22,
-                won: 12,
-                drawn: 1,
+                played: 24,
+                won: 13,
+                drawn: 2,
                 lost: 9,
-                gf: 49,
+                gf: 50,
                 ga: 40,
-                gd: 9,
-                points: 37,
+                gd: 10,
+                points: 41,
             },
             {
                 position: 7,
@@ -3304,14 +3304,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid100",
-                played: 22,
+                played: 24,
                 won: 11,
-                drawn: 4,
-                lost: 7,
+                drawn: 5,
+                lost: 8,
                 gf: 56,
-                ga: 46,
-                gd: 10,
-                points: 37,
+                ga: 47,
+                gd: 9,
+                points: 38,
             },
             {
                 position: 11,
