@@ -1493,9 +1493,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 5,
                 home: "Mignon",
-                homeScore: null,
+                homeScore: 1,
                 away: "Yunusu100",
-                awayScore: null,
+                awayScore: 7,
                 date: "2025-07-25"
             },
             {
@@ -1517,9 +1517,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 5,
                 home: "Newton FC",
-                homeScore: null,
+                homeScore: 2,
                 away: "Anko-Fit",
-                awayScore: null,
+                awayScore: 5,
                 date: "2025-07-25"
             },
             {
@@ -2482,9 +2482,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 20,
                 home: "Yunusu100",
-                homeScore: null,
+                homeScore: 3,
                 away: "Mignon",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-09"
             },
             {
@@ -2506,9 +2506,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 20,
                 home: "Anko-Fit",
-                homeScore: null,
+                homeScore: 7,
                 away: "Newton FC",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-09"
             },
             {
@@ -2556,9 +2556,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 21,
                 home: "Mignon",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThDrkSid100",
-                awayScore: null,
+                awayScore: 4,
                 date: "2025-08-10"
             },
             {
@@ -3220,13 +3220,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 3,
                 team: "Newton FC",
-                played: 12,
+                played: 14,
                 won: 6,
                 drawn: 0,
-                lost: 6,
-                gf: 34,
-                ga: 39,
-                gd: -5,
+                lost: 8,
+                gf: 38,
+                ga: 51,
+                gd: -13,
                 points: 18,
             },
             {
@@ -3268,13 +3268,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 7,
                 team: "Mignon",
-                played: 19,
+                played: 22,
                 won: 11,
                 drawn: 2,
-                lost: 6,
-                gf: 41,
-                ga: 38,
-                gd: 3,
+                lost: 9,
+                gf: 44,
+                ga: 52,
+                gd: -8,
                 points: 35,
             },
             {
@@ -3304,14 +3304,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid100",
-                played: 21,
-                won: 10,
+                played: 22,
+                won: 11,
                 drawn: 4,
                 lost: 7,
-                gf: 52,
-                ga: 45,
-                gd: 7,
-                points: 34,
+                gf: 56,
+                ga: 46,
+                gd: 10,
+                points: 37,
             },
             {
                 position: 11,
@@ -3340,26 +3340,26 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 13,
                 team: "Yunusu100",
-                played: 20,
-                won: 11,
+                played: 22,
+                won: 13,
                 drawn: 3,
                 lost: 6,
-                gf: 45,
-                ga: 28,
-                gd: 17,
-                points: 36,
+                gf: 55,
+                ga: 30,
+                gd: 25,
+                points: 42,
             },
             {
                 position: 14,
                 team: "Anko-Fit",
-                played: 18,
-                won: 9,
+                played: 20,
+                won: 11,
                 drawn: 3,
                 lost: 6,
-                gf: 40,
-                ga: 38,
-                gd: 2,
-                points: 30,
+                gf: 52,
+                ga: 42,
+                gd: 10,
+                points: 36,
             },
             {
                 position: 15,
