@@ -1912,9 +1912,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 11,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 1,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-07-31"
             },
             {
@@ -1970,9 +1970,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 12,
                 home: "Ghazi",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-01"
             },
             {
@@ -2903,9 +2903,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 26,
                 home: "Ghazi",
-                homeScore: null,
+                homeScore: 1,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-15"
             },
             {
@@ -2961,9 +2961,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 27,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 1,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-16"
             },
             {
@@ -3244,14 +3244,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 5,
                 team: "Ghazi",
-                played: 18,
-                won: 14,
-                drawn: 2,
+                played: 22,
+                won: 16,
+                drawn: 4,
                 lost: 2,
-                gf: 55,
-                ga: 22,
-                gd: 23,
-                points: 44,
+                gf: 61,
+                ga: 26,
+                gd: 25,
+                points: 52,
             },
             {
                 position: 6,
@@ -3316,26 +3316,26 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 22,
+                played: 24,
                 won: 18,
-                drawn: 1,
-                lost: 3,
-                gf: 73,
-                ga: 28,
-                gd: 45,
-                points: 55,
+                drawn: 2,
+                lost: 4,
+                gf: 75,
+                ga: 31,
+                gd: 44,
+                points: 56,
             },
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 20,
+                played: 22,
                 won: 5,
-                drawn: 4,
-                lost: 11,
-                gf: 34,
-                ga: 49,
-                gd: -15,
-                points: 19,
+                drawn: 5,
+                lost: 12,
+                gf: 35,
+                ga: 51,
+                gd: -16,
+                points: 20,
             },
             {
                 position: 13,
