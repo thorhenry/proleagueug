@@ -2044,9 +2044,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 13,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 1,
                 away: "Mignon",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-02"
             },
             {
@@ -3035,9 +3035,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 28,
                 home: "Mignon",
-                homeScore: null,
+                homeScore: 0,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 8,
                 date: "2025-08-17"
             },
             {
@@ -3268,14 +3268,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 7,
                 team: "Mignon",
-                played: 22,
-                won: 11,
+                played: 24,
+                won: 12,
                 drawn: 2,
-                lost: 9,
-                gf: 44,
-                ga: 52,
-                gd: -8,
-                points: 35,
+                lost: 10,
+                gf: 46,
+                ga: 61,
+                gd: -15,
+                points: 38,
             },
             {
                 position: 8,
@@ -3316,14 +3316,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 24,
-                won: 18,
+                played: 26,
+                won: 19,
                 drawn: 2,
-                lost: 4,
-                gf: 75,
-                ga: 31,
-                gd: 44,
-                points: 56,
+                lost: 5,
+                gf: 84,
+                ga: 33,
+                gd: 51,
+                points: 59,
             },
             {
                 position: 12,
