@@ -3037,7 +3037,7 @@ document.addEventListener('DOMContentLoaded', () => {
                 home: "Mignon",
                 homeScore: 0,
                 away: "ThorVisual",
-                awayScore: 8,
+                awayScore: 9,
                 date: "2025-08-17"
             },
             {
@@ -3273,8 +3273,8 @@ document.addEventListener('DOMContentLoaded', () => {
                 drawn: 2,
                 lost: 10,
                 gf: 46,
-                ga: 61,
-                gd: -15,
+                ga: 62,
+                gd: -16,
                 points: 38,
             },
             {
@@ -3320,9 +3320,9 @@ document.addEventListener('DOMContentLoaded', () => {
                 won: 19,
                 drawn: 2,
                 lost: 5,
-                gf: 84,
+                gf: 85,
                 ga: 33,
-                gd: 51,
+                gd: 52,
                 points: 59,
             },
             {
