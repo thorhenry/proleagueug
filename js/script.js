@@ -2110,9 +2110,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 14,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 1,
                 away: "ThDrkSid100",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-03"
             },
             {
@@ -3101,9 +3101,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 29,
                 home: "ThDrkSid100",
-                homeScore: null,
+                homeScore: 1,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 9,
                 date: "2025-08-18"
             },
             {
@@ -3304,14 +3304,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 10,
                 team: "ThDrkSid100",
-                played: 24,
-                won: 11,
+                played: 26,
+                won: 12,
                 drawn: 5,
-                lost: 8,
-                gf: 56,
-                ga: 47,
-                gd: 9,
-                points: 38,
+                lost: 9,
+                gf: 60,
+                ga: 57,
+                gd: 3,
+                points: 41,
             },
             {
                 position: 11,
@@ -3376,14 +3376,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 16,
                 team: "HenryLuther",
-                played: 28,
-                won: 12,
+                played: 30,
+                won: 13,
                 drawn: 2,
-                lost: 14,
-                gf: 49,
-                ga: 57,
-                gd: -8,
-                points: 38,
+                lost: 15,
+                gf: 59,
+                ga: 61,
+                gd: -2,
+                points: 41,
             }
         ],
 
