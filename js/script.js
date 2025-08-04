@@ -1731,9 +1731,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 8,
                 home: "Newton FC",
-                homeScore: null,
+                homeScore: 3,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 5,
                 date: "2025-07-28"
             },
 
@@ -2086,9 +2086,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 14,
                 home: "Ghazi",
-                homeScore: null,
+                homeScore: 3,
                 away: "The Kraven",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-03"
             },
             {
@@ -2720,9 +2720,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 23,
                 home: "Ghazi",
-                homeScore: null,
+                homeScore: 5,
                 away: "Newton FC",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-12"
             },
 
@@ -3077,9 +3077,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 29,
                 home: "The Kraven",
-                homeScore: null,
+                homeScore: 1,
                 away: "Ghazi",
-                awayScore: null,
+                awayScore: 1,
                 date: "2025-08-18"
             },
             {
@@ -3220,13 +3220,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 3,
                 team: "Newton FC",
-                played: 14,
+                played: 16,
                 won: 6,
                 drawn: 0,
-                lost: 8,
-                gf: 38,
-                ga: 51,
-                gd: -13,
+                lost: 10,
+                gf: 42,
+                ga: 61,
+                gd: -19,
                 points: 18,
             },
             {
@@ -3244,14 +3244,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 5,
                 team: "Ghazi",
-                played: 22,
-                won: 16,
-                drawn: 4,
+                played: 26,
+                won: 19,
+                drawn: 5,
                 lost: 2,
-                gf: 61,
-                ga: 26,
-                gd: 25,
-                points: 52,
+                gf: 75,
+                ga: 33,
+                gd: 42,
+                points: 62,
             },
             {
                 position: 6,
@@ -3280,14 +3280,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 8,
                 team: "The Kraven",
-                played: 24,
+                played: 26,
                 won: 6,
-                drawn: 5,
-                lost: 13,
-                gf: 43,
-                ga: 68,
-                gd: -25,
-                points: 23,
+                drawn: 6,
+                lost: 14,
+                gf: 46,
+                ga: 72,
+                gd: -26,
+                points: 24,
             },
             {
                 position: 9,
