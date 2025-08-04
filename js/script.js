@@ -2168,9 +2168,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 15,
                 home: "Lardker FC",
-                homeScore: null,
+                homeScore: 2,
                 away: "HenryLuther",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-04"
             },
             {
@@ -2192,9 +2192,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 15,
                 home: "ThorVisual",
-                homeScore: null,
+                homeScore: 4,
                 away: "Yunusu100",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-04"
             },
 
@@ -3159,9 +3159,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 30,
                 home: "HenryLuther",
-                homeScore: null,
+                homeScore: 0,
                 away: "Lardker FC",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-19"
             },
             {
@@ -3183,9 +3183,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 30,
                 home: "Yunusu100",
-                homeScore: null,
+                homeScore: 0,
                 away: "ThorVisual",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-19"
             }
         ],
@@ -3292,14 +3292,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 9,
                 team: "Lardker FC",
-                played: 22,
-                won: 5,
+                played: 24,
+                won: 6,
                 drawn: 6,
-                lost: 11,
-                gf: 37,
-                ga: 55,
-                gd: -18,
-                points: 21,
+                lost: 12,
+                gf: 42,
+                ga: 58,
+                gd: -16,
+                points: 24,
             },
             {
                 position: 10,
@@ -3316,14 +3316,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 11,
                 team: "ThorVisual",
-                played: 26,
-                won: 19,
+                played: 28,
+                won: 21,
                 drawn: 2,
                 lost: 5,
-                gf: 85,
-                ga: 33,
-                gd: 52,
-                points: 59,
+                gf: 91,
+                ga: 35,
+                gd: 56,
+                points: 65,
             },
             {
                 position: 12,
@@ -3340,13 +3340,13 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 13,
                 team: "Yunusu100",
-                played: 24,
+                played: 26,
                 won: 14,
                 drawn: 3,
-                lost: 7,
-                gf: 58,
-                ga: 33,
-                gd: 25,
+                lost: 9,
+                gf: 60,
+                ga: 39,
+                gd: 21,
                 points: 45,
             },
             {
@@ -3376,14 +3376,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 16,
                 team: "HenryLuther",
-                played: 26,
-                won: 11,
+                played: 28,
+                won: 12,
                 drawn: 2,
-                lost: 13,
-                gf: 46,
-                ga: 52,
-                gd: -6,
-                points: 35,
+                lost: 14,
+                gf: 49,
+                ga: 57,
+                gd: -8,
+                points: 38,
             }
         ],
 
