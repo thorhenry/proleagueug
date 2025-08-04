@@ -2060,9 +2060,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 13,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 4,
                 away: "Dandizzo",
-                awayScore: null,
+                awayScore: 5,
                 date: "2025-08-02"
             },
 
@@ -2852,9 +2852,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 25,
                 home: "Mignon",
-                homeScore: 0,
+                homeScore: 1,
                 away: "Its_Volts",
-                awayScore: 1,
+                awayScore: 0,
                 date: "2025-08-14"
             },
 
@@ -3051,9 +3051,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 28,
                 home: "Dandizzo",
-                homeScore: null,
+                homeScore: 1,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-17"
             },
 
@@ -3328,14 +3328,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 22,
-                won: 5,
+                played: 24,
+                won: 6,
                 drawn: 5,
-                lost: 12,
-                gf: 35,
-                ga: 51,
+                lost: 13,
+                gf: 41,
+                ga: 57,
                 gd: -16,
-                points: 20,
+                points: 23,
             },
             {
                 position: 13,
@@ -3364,14 +3364,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 15,
                 team: "Dandizzo",
-                played: 20,
-                won: 3,
+                played: 22,
+                won: 4,
                 drawn: 0,
-                lost: 17,
-                gf: 23,
-                ga: 57,
+                lost: 16,
+                gf: 29,
+                ga: 63,
                 gd: -32,
-                points: 9,
+                points: 12,
             },
             {
                 position: 16,
