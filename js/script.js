@@ -1920,9 +1920,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 11,
                 home: "Dandizzo",
-                homeScore: null,
+                homeScore: 1,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-07-31"
             },
             {
@@ -1954,9 +1954,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 12,
                 home: "Its Lyta",
-                homeScore: null,
+                homeScore: 4,
                 away: "Anko-Fit",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-01"
             },
             {
@@ -2094,9 +2094,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 14,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 6,
                 away: "Lardker FC",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-03"
             },
             {
@@ -2126,9 +2126,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 14,
                 home: "Offer_Art",
-                homeScore: null,
+                homeScore: 2,
                 away: "Yunusu100",
-                awayScore: null,
+                awayScore: 3,
                 date: "2025-08-03"
             },
 
@@ -2152,9 +2152,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 15,
                 home: "Grndsn",
-                homeScore: null,
+                homeScore: 2,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-04"
             },
             {
@@ -2911,9 +2911,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 26,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 6,
                 away: "Dandizzo",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-15"
             },
             {
@@ -2945,9 +2945,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 27,
                 home: "Anko-Fit",
-                homeScore: null,
+                homeScore: 0,
                 away: "Its Lyta",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-16"
             },
             {
@@ -3085,9 +3085,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 29,
                 home: "Lardker FC",
-                homeScore: null,
+                homeScore: 0,
                 away: "Its_Volts",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-18"
             },
             {
@@ -3117,9 +3117,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 29,
                 home: "Yunusu100",
-                homeScore: null,
+                homeScore: 1,
                 away: "Offer_Art",
-                awayScore: null,
+                awayScore: 2,
                 date: "2025-08-18"
             },
 
@@ -3143,9 +3143,9 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 matchday: 30,
                 home: "Its_Volts",
-                homeScore: null,
+                homeScore: 4,
                 away: "Grndsn",
-                awayScore: null,
+                awayScore: 0,
                 date: "2025-08-19"
             },
             {
@@ -3208,14 +3208,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 2,
                 team: "Grndsn",
-                played: 26,
+                played: 28,
                 won: 9,
-                drawn: 7,
-                lost: 10,
-                gf: 57,
-                ga: 53,
-                gd: 4,
-                points: 34,
+                drawn: 8,
+                lost: 11,
+                gf: 59,
+                ga: 59,
+                gd: 0,
+                points: 35,
             },
             {
                 position: 3,
@@ -3232,14 +3232,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 4,
                 team: "Its Lyta",
-                played: 22,
-                won: 9,
-                drawn: 3,
+                played: 24,
+                won: 10,
+                drawn: 4,
                 lost: 10,
-                gf: 48,
-                ga: 48,
-                gd: 0,
-                points: 30,
+                gf: 52,
+                ga: 51,
+                gd: 1,
+                points: 34,
             },
             {
                 position: 5,
@@ -3256,14 +3256,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 6,
                 team: "Its_Volts",
-                played: 24,
-                won: 13,
-                drawn: 2,
+                played: 30,
+                won: 17,
+                drawn: 4,
                 lost: 9,
-                gf: 50,
-                ga: 40,
-                gd: 10,
-                points: 41,
+                gf: 71,
+                ga: 45,
+                gd: 26,
+                points: 55,
             },
             {
                 position: 7,
@@ -3292,14 +3292,14 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 9,
                 team: "Lardker FC",
-                played: 24,
+                played: 26,
                 won: 6,
-                drawn: 6,
-                lost: 12,
-                gf: 42,
-                ga: 58,
-                gd: -16,
-                points: 24,
+                drawn: 7,
+                lost: 13,
+                gf: 44,
+                ga: 64,
+                gd: -20,
+                points: 25,
             },
             {
                 position: 10,
@@ -3328,49 +3328,49 @@ document.addEventListener('DOMContentLoaded', () => {
             {
                 position: 12,
                 team: "Offer_Art",
-                played: 24,
-                won: 6,
+                played: 26,
+                won: 7,
                 drawn: 5,
-                lost: 13,
-                gf: 41,
-                ga: 57,
+                lost: 14,
+                gf: 45,
+                ga: 61,
                 gd: -16,
-                points: 23,
+                points: 26,
             },
             {
                 position: 13,
                 team: "Yunusu100",
-                played: 26,
-                won: 14,
+                played: 28,
+                won: 15,
                 drawn: 3,
-                lost: 9,
-                gf: 60,
-                ga: 39,
+                lost: 10,
+                gf: 64,
+                ga: 43,
                 gd: 21,
-                points: 45,
+                points: 48,
             },
             {
                 position: 14,
                 team: "Anko-Fit",
-                played: 20,
+                played: 22,
                 won: 11,
-                drawn: 3,
-                lost: 6,
-                gf: 52,
-                ga: 42,
-                gd: 10,
-                points: 36,
+                drawn: 4,
+                lost: 7,
+                gf: 55,
+                ga: 46,
+                gd: 9,
+                points: 37,
             },
             {
                 position: 15,
                 team: "Dandizzo",
-                played: 22,
+                played: 24,
                 won: 4,
                 drawn: 0,
-                lost: 16,
-                gf: 29,
-                ga: 63,
-                gd: -32,
+                lost: 18,
+                gf: 30,
+                ga: 72,
+                gd: -38,
                 points: 12,
             },
             {
